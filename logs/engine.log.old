@@ -1,0 +1,549 @@
+{"type": "startup", "mode": "paper", "symbols": "BTCUSDT,ETHUSDT", "interval_sec": 5, "ts": "2026-02-13T18:02:49.113238+00:00"}
+{"type": "tick", "counter": 1, "ts": "2026-02-13T18:02:49.113336+00:00"}
+{"type": "tick", "counter": 2, "ts": "2026-02-13T18:02:54.236647+00:00"}
+{"type": "tick", "counter": 3, "ts": "2026-02-13T18:02:56.319171+00:00"}
+{"type": "tick", "counter": 4, "ts": "2026-02-13T18:03:01.431549+00:00"}
+{"type": "tick", "counter": 5, "ts": "2026-02-13T18:03:06.483883+00:00"}
+{"type": "tick", "counter": 6, "ts": "2026-02-13T18:03:11.666051+00:00"}
+{"type": "tick", "counter": 7, "ts": "2026-02-13T18:03:16.700591+00:00"}
+{"type": "tick", "counter": 8, "ts": "2026-02-13T18:03:21.855837+00:00"}
+{"type": "tick", "counter": 9, "ts": "2026-02-13T18:03:23.966571+00:00"}
+{"type": "tick", "counter": 10, "ts": "2026-02-13T18:03:28.975127+00:00"}
+{"type": "tick", "counter": 11, "ts": "2026-02-13T18:03:34.273117+00:00"}
+{"type": "tick", "counter": 12, "ts": "2026-02-13T18:03:39.305833+00:00"}
+{"type": "tick", "counter": 13, "ts": "2026-02-13T18:03:44.347151+00:00"}
+{"type": "tick", "counter": 14, "ts": "2026-02-13T18:03:49.613427+00:00"}
+{"type": "tick", "counter": 15, "ts": "2026-02-13T18:03:54.864533+00:00"}
+{"type": "tick", "counter": 16, "ts": "2026-02-13T18:03:56.986580+00:00"}
+{"type": "tick", "counter": 17, "ts": "2026-02-13T18:04:02.224742+00:00"}
+{"type": "tick", "counter": 18, "ts": "2026-02-13T18:04:07.518008+00:00"}
+{"type": "tick", "counter": 19, "ts": "2026-02-13T18:04:12.607487+00:00"}
+{"type": "tick", "counter": 20, "ts": "2026-02-13T18:04:17.803967+00:00"}
+{"type": "tick", "counter": 21, "ts": "2026-02-13T18:04:23.090280+00:00"}
+{"type": "tick", "counter": 22, "ts": "2026-02-13T18:04:25.088133+00:00"}
+{"type": "tick", "counter": 23, "ts": "2026-02-13T18:04:30.207863+00:00"}
+{"type": "tick", "counter": 24, "ts": "2026-02-13T18:04:35.461017+00:00"}
+{"type": "tick", "counter": 25, "ts": "2026-02-13T18:04:40.745614+00:00"}
+{"type": "tick", "counter": 26, "ts": "2026-02-13T18:04:45.856522+00:00"}
+{"type": "tick", "counter": 27, "ts": "2026-02-13T18:04:50.881641+00:00"}
+{"type": "tick", "counter": 28, "ts": "2026-02-13T18:04:55.933714+00:00"}
+{"type": "tick", "counter": 29, "ts": "2026-02-13T18:04:57.943917+00:00"}
+{"type": "tick", "counter": 30, "ts": "2026-02-13T18:05:03.013901+00:00"}
+{"type": "tick", "counter": 31, "ts": "2026-02-13T18:05:08.158908+00:00"}
+{"type": "tick", "counter": 32, "ts": "2026-02-13T18:05:13.374550+00:00"}
+{"type": "tick", "counter": 33, "ts": "2026-02-13T18:05:18.422582+00:00"}
+{"type": "tick", "counter": 34, "ts": "2026-02-13T18:05:23.471208+00:00"}
+{"type": "tick", "counter": 35, "ts": "2026-02-13T18:05:25.499104+00:00"}
+{"type": "tick", "counter": 36, "ts": "2026-02-13T18:05:30.550470+00:00"}
+{"type": "tick", "counter": 37, "ts": "2026-02-13T18:05:35.649001+00:00"}
+{"type": "tick", "counter": 38, "ts": "2026-02-13T18:05:40.833516+00:00"}
+{"type": "tick", "counter": 39, "ts": "2026-02-13T18:05:46.035655+00:00"}
+{"type": "tick", "counter": 40, "ts": "2026-02-13T18:05:51.077884+00:00"}
+{"type": "tick", "counter": 41, "ts": "2026-02-13T18:05:53.298511+00:00"}
+{"type": "tick", "counter": 42, "ts": "2026-02-13T18:05:58.225324+00:00"}
+{"type": "tick", "counter": 43, "ts": "2026-02-13T18:06:03.239029+00:00"}
+{"type": "tick", "counter": 44, "ts": "2026-02-13T18:06:08.308060+00:00"}
+{"type": "tick", "counter": 45, "ts": "2026-02-13T18:06:13.362409+00:00"}
+{"type": "tick", "counter": 46, "ts": "2026-02-13T18:06:18.387852+00:00"}
+{"type": "tick", "counter": 47, "ts": "2026-02-13T18:06:23.391020+00:00"}
+{"type": "tick", "counter": 48, "ts": "2026-02-13T18:06:25.393376+00:00"}
+{"type": "tick", "counter": 49, "ts": "2026-02-13T18:06:30.454440+00:00"}
+{"type": "tick", "counter": 50, "ts": "2026-02-13T18:06:35.489239+00:00"}
+{"type": "tick", "counter": 51, "ts": "2026-02-13T18:06:40.594462+00:00"}
+{"type": "tick", "counter": 52, "ts": "2026-02-13T18:06:45.692661+00:00"}
+{"type": "tick", "counter": 53, "ts": "2026-02-13T18:06:50.767892+00:00"}
+{"type": "tick", "counter": 54, "ts": "2026-02-13T18:06:55.902048+00:00"}
+{"type": "tick", "counter": 55, "ts": "2026-02-13T18:06:57.928696+00:00"}
+{"type": "tick", "counter": 56, "ts": "2026-02-13T18:07:03.055653+00:00"}
+{"type": "tick", "counter": 57, "ts": "2026-02-13T18:07:08.177718+00:00"}
+{"type": "tick", "counter": 58, "ts": "2026-02-13T18:07:13.372671+00:00"}
+{"type": "tick", "counter": 59, "ts": "2026-02-13T18:07:18.436790+00:00"}
+{"type": "tick", "counter": 60, "ts": "2026-02-13T18:07:23.474060+00:00"}
+{"type": "tick", "counter": 61, "ts": "2026-02-13T18:07:25.477608+00:00"}
+{"type": "tick", "counter": 62, "ts": "2026-02-13T18:07:30.487647+00:00"}
+{"type": "tick", "counter": 63, "ts": "2026-02-13T18:07:35.576822+00:00"}
+{"type": "tick", "counter": 64, "ts": "2026-02-13T18:07:40.733963+00:00"}
+{"type": "tick", "counter": 65, "ts": "2026-02-13T18:07:45.742666+00:00"}
+{"type": "tick", "counter": 66, "ts": "2026-02-13T18:07:50.757771+00:00"}
+{"type": "tick", "counter": 67, "ts": "2026-02-13T18:07:55.864100+00:00"}
+{"type": "tick", "counter": 68, "ts": "2026-02-13T18:07:58.057126+00:00"}
+{"type": "tick", "counter": 69, "ts": "2026-02-13T18:08:03.325258+00:00"}
+{"type": "tick", "counter": 70, "ts": "2026-02-13T18:08:08.399044+00:00"}
+{"type": "tick", "counter": 71, "ts": "2026-02-13T18:08:13.413657+00:00"}
+{"type": "tick", "counter": 72, "ts": "2026-02-13T18:08:18.543250+00:00"}
+{"type": "tick", "counter": 73, "ts": "2026-02-13T18:08:23.648509+00:00"}
+{"type": "tick", "counter": 74, "ts": "2026-02-13T18:08:25.700676+00:00"}
+{"type": "tick", "counter": 75, "ts": "2026-02-13T18:08:30.720694+00:00"}
+{"type": "tick", "counter": 76, "ts": "2026-02-13T18:08:35.723021+00:00"}
+{"type": "tick", "counter": 77, "ts": "2026-02-13T18:08:40.735849+00:00"}
+{"type": "tick", "counter": 78, "ts": "2026-02-13T18:08:45.789046+00:00"}
+{"type": "tick", "counter": 79, "ts": "2026-02-13T18:08:50.803442+00:00"}
+{"type": "tick", "counter": 80, "ts": "2026-02-13T18:08:55.806103+00:00"}
+{"type": "tick", "counter": 81, "ts": "2026-02-13T18:08:57.825264+00:00"}
+{"type": "tick", "counter": 82, "ts": "2026-02-13T18:09:02.943557+00:00"}
+{"type": "tick", "counter": 83, "ts": "2026-02-13T18:09:08.029115+00:00"}
+{"type": "tick", "counter": 84, "ts": "2026-02-13T18:09:13.204530+00:00"}
+{"type": "tick", "counter": 85, "ts": "2026-02-13T18:09:18.257166+00:00"}
+{"type": "tick", "counter": 86, "ts": "2026-02-13T18:09:23.330853+00:00"}
+{"type": "tick", "counter": 87, "ts": "2026-02-13T18:09:25.351907+00:00"}
+{"type": "tick", "counter": 88, "ts": "2026-02-13T18:09:30.375500+00:00"}
+{"type": "tick", "counter": 89, "ts": "2026-02-13T18:09:35.458843+00:00"}
+{"type": "tick", "counter": 90, "ts": "2026-02-13T18:09:40.533514+00:00"}
+{"type": "tick", "counter": 91, "ts": "2026-02-13T18:09:45.612079+00:00"}
+{"type": "tick", "counter": 92, "ts": "2026-02-13T18:09:50.612685+00:00"}
+{"type": "tick", "counter": 93, "ts": "2026-02-13T18:09:55.691208+00:00"}
+{"type": "tick", "counter": 94, "ts": "2026-02-13T18:09:57.899610+00:00"}
+{"type": "tick", "counter": 95, "ts": "2026-02-13T18:10:03.142318+00:00"}
+{"type": "tick", "counter": 96, "ts": "2026-02-13T18:10:08.201271+00:00"}
+{"type": "tick", "counter": 97, "ts": "2026-02-13T18:10:13.367499+00:00"}
+{"type": "tick", "counter": 98, "ts": "2026-02-13T18:10:18.475202+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3}, "ts": "2026-02-13T18:11:22.018922+00:00"}
+{"type": "tick", "counter": 1, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:22.019015+00:00"}
+{"type": "tick", "counter": 2, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:24.203007+00:00"}
+{"type": "tick", "counter": 3, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:29.387208+00:00"}
+{"type": "tick", "counter": 4, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:34.417679+00:00"}
+{"type": "tick", "counter": 5, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:39.497215+00:00"}
+{"type": "tick", "counter": 6, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:44.688727+00:00"}
+{"type": "tick", "counter": 7, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:49.813933+00:00"}
+{"type": "tick", "counter": 8, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:54.827578+00:00"}
+{"type": "tick", "counter": 9, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:11:56.942871+00:00"}
+{"type": "tick", "counter": 10, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:02.054070+00:00"}
+{"type": "tick", "counter": 11, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:07.232043+00:00"}
+{"type": "tick", "counter": 12, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:12.285930+00:00"}
+{"type": "tick", "counter": 13, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:17.395837+00:00"}
+{"type": "tick", "counter": 14, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:22.567209+00:00"}
+{"type": "tick", "counter": 15, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:24.747127+00:00"}
+{"type": "tick", "counter": 16, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:29.834218+00:00"}
+{"type": "tick", "counter": 17, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:35.009145+00:00"}
+{"type": "tick", "counter": 18, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:40.257960+00:00"}
+{"type": "tick", "counter": 19, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:45.330010+00:00"}
+{"type": "tick", "counter": 20, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:50.370813+00:00"}
+{"type": "tick", "counter": 21, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:55.610606+00:00"}
+{"type": "tick", "counter": 22, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:12:57.610674+00:00"}
+{"type": "tick", "counter": 23, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:02.716765+00:00"}
+{"type": "tick", "counter": 24, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:07.928042+00:00"}
+{"type": "tick", "counter": 25, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:13.019729+00:00"}
+{"type": "tick", "counter": 26, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:18.060418+00:00"}
+{"type": "tick", "counter": 27, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:23.184848+00:00"}
+{"type": "tick", "counter": 28, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:25.235350+00:00"}
+{"type": "tick", "counter": 29, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:30.352046+00:00"}
+{"type": "tick", "counter": 30, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:35.425216+00:00"}
+{"type": "tick", "counter": 31, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:40.590938+00:00"}
+{"type": "tick", "counter": 32, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:45.606505+00:00"}
+{"type": "tick", "counter": 33, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:50.679033+00:00"}
+{"type": "tick", "counter": 34, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:55.783239+00:00"}
+{"type": "tick", "counter": 35, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:13:57.895694+00:00"}
+{"type": "tick", "counter": 36, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:03.072991+00:00"}
+{"type": "tick", "counter": 37, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:08.111180+00:00"}
+{"type": "tick", "counter": 38, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:13.180451+00:00"}
+{"type": "tick", "counter": 39, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:18.350549+00:00"}
+{"type": "tick", "counter": 40, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:23.589128+00:00"}
+{"type": "tick", "counter": 41, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:25.658576+00:00"}
+{"type": "tick", "counter": 42, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:30.689899+00:00"}
+{"type": "tick", "counter": 43, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:35.921988+00:00"}
+{"type": "tick", "counter": 44, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:40.957095+00:00"}
+{"type": "tick", "counter": 45, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:45.974790+00:00"}
+{"type": "tick", "counter": 46, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:51.030425+00:00"}
+{"type": "tick", "counter": 47, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:56.313442+00:00"}
+{"type": "tick", "counter": 48, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:14:58.315088+00:00"}
+{"type": "tick", "counter": 49, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:03.496333+00:00"}
+{"type": "tick", "counter": 50, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:08.659712+00:00"}
+{"type": "tick", "counter": 51, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:13.665692+00:00"}
+{"type": "tick", "counter": 52, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:18.729556+00:00"}
+{"type": "tick", "counter": 53, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:23.948936+00:00"}
+{"type": "tick", "counter": 54, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:25.948318+00:00"}
+{"type": "tick", "counter": 55, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:30.980221+00:00"}
+{"type": "tick", "counter": 56, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:36.126112+00:00"}
+{"type": "tick", "counter": 57, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:41.236658+00:00"}
+{"type": "tick", "counter": 58, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:46.278613+00:00"}
+{"type": "tick", "counter": 59, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:51.321547+00:00"}
+{"type": "tick", "counter": 60, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:56.459786+00:00"}
+{"type": "tick", "counter": 61, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:15:58.555193+00:00"}
+{"type": "tick", "counter": 62, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:03.672310+00:00"}
+{"type": "tick", "counter": 63, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:08.744138+00:00"}
+{"type": "tick", "counter": 64, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:13.884491+00:00"}
+{"type": "tick", "counter": 65, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:19.096099+00:00"}
+{"type": "tick", "counter": 66, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:24.097244+00:00"}
+{"type": "tick", "counter": 67, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:26.092701+00:00"}
+{"type": "tick", "counter": 68, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:31.351839+00:00"}
+{"type": "tick", "counter": 69, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:36.730167+00:00"}
+{"type": "tick", "counter": 70, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:41.785349+00:00"}
+{"type": "tick", "counter": 71, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:46.999671+00:00"}
+{"type": "tick", "counter": 72, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:52.311918+00:00"}
+{"type": "tick", "counter": 73, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:54.433169+00:00"}
+{"type": "tick", "counter": 74, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:16:59.364602+00:00"}
+{"type": "tick", "counter": 75, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:04.653842+00:00"}
+{"type": "tick", "counter": 76, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:09.667912+00:00"}
+{"type": "tick", "counter": 77, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:14.779435+00:00"}
+{"type": "tick", "counter": 78, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:19.850499+00:00"}
+{"type": "tick", "counter": 79, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:24.984881+00:00"}
+{"type": "tick", "counter": 80, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:27.028527+00:00"}
+{"type": "tick", "counter": 81, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:32.079132+00:00"}
+{"type": "tick", "counter": 82, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:37.124994+00:00"}
+{"type": "tick", "counter": 83, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:42.146479+00:00"}
+{"type": "tick", "counter": 84, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:47.176191+00:00"}
+{"type": "tick", "counter": 85, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:52.324444+00:00"}
+{"type": "tick", "counter": 86, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:54.636964+00:00"}
+{"type": "tick", "counter": 87, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:17:59.738202+00:00"}
+{"type": "tick", "counter": 88, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:04.832631+00:00"}
+{"type": "tick", "counter": 89, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:10.067224+00:00"}
+{"type": "tick", "counter": 90, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:15.305662+00:00"}
+{"type": "tick", "counter": 91, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:20.371953+00:00"}
+{"type": "tick", "counter": 92, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:25.377595+00:00"}
+{"type": "tick", "counter": 93, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:27.462030+00:00"}
+{"type": "tick", "counter": 94, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:32.719330+00:00"}
+{"type": "tick", "counter": 95, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:37.745502+00:00"}
+{"type": "tick", "counter": 96, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:42.970967+00:00"}
+{"type": "tick", "counter": 97, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:48.091376+00:00"}
+{"type": "tick", "counter": 98, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:53.134355+00:00"}
+{"type": "tick", "counter": 99, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:18:55.136568+00:00"}
+{"type": "tick", "counter": 100, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:00.157845+00:00"}
+{"type": "tick", "counter": 101, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:05.450231+00:00"}
+{"type": "tick", "counter": 102, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:10.535003+00:00"}
+{"type": "tick", "counter": 103, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:15.688939+00:00"}
+{"type": "tick", "counter": 104, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:20.966725+00:00"}
+{"type": "tick", "counter": 105, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:25.996306+00:00"}
+{"type": "tick", "counter": 106, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:28.039953+00:00"}
+{"type": "tick", "counter": 107, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:33.298150+00:00"}
+{"type": "tick", "counter": 108, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:38.321993+00:00"}
+{"type": "tick", "counter": 109, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:43.397089+00:00"}
+{"type": "tick", "counter": 110, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:48.580255+00:00"}
+{"type": "tick", "counter": 111, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:53.681977+00:00"}
+{"type": "tick", "counter": 112, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:19:55.697546+00:00"}
+{"type": "tick", "counter": 113, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:00.701174+00:00"}
+{"type": "tick", "counter": 114, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:05.822485+00:00"}
+{"type": "tick", "counter": 115, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:10.919119+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3}, "ts": "2026-02-13T18:20:13.605181+00:00"}
+{"type": "tick", "counter": 1, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:13.605252+00:00"}
+{"type": "tick", "counter": 116, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:15.964512+00:00"}
+{"type": "tick", "counter": 2, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:18.653962+00:00"}
+{"type": "tick", "counter": 117, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:21.112913+00:00"}
+{"type": "tick", "counter": 3, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:23.833351+00:00"}
+{"type": "tick", "counter": 118, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:26.137215+00:00"}
+{"type": "tick", "counter": 4, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:25.887629+00:00"}
+{"type": "tick", "counter": 119, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:28.418536+00:00"}
+{"type": "tick", "counter": 5, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:30.906756+00:00"}
+{"type": "tick", "counter": 120, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:33.499485+00:00"}
+{"type": "tick", "counter": 6, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:35.968154+00:00"}
+{"type": "tick", "counter": 121, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:38.698176+00:00"}
+{"type": "tick", "counter": 7, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:41.021091+00:00"}
+{"type": "tick", "counter": 122, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:43.942703+00:00"}
+{"type": "tick", "counter": 8, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:46.167912+00:00"}
+{"type": "tick", "counter": 123, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:48.943143+00:00"}
+{"type": "tick", "counter": 9, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:51.189629+00:00"}
+{"type": "tick", "counter": 124, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:53.946591+00:00"}
+{"type": "tick", "counter": 10, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:56.233267+00:00"}
+{"type": "tick", "counter": 125, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:20:55.963833+00:00"}
+{"type": "tick", "counter": 11, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:20:58.244921+00:00"}
+{"type": "tick", "counter": 126, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:00.968768+00:00"}
+{"type": "tick", "counter": 12, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:03.257723+00:00"}
+{"type": "tick", "counter": 127, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:06.021793+00:00"}
+{"type": "tick", "counter": 13, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:08.259209+00:00"}
+{"type": "tick", "counter": 128, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:11.088029+00:00"}
+{"type": "tick", "counter": 14, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:13.269824+00:00"}
+{"type": "tick", "counter": 129, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:16.160528+00:00"}
+{"type": "tick", "counter": 15, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:18.271100+00:00"}
+{"type": "tick", "counter": 130, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:21.234470+00:00"}
+{"type": "tick", "counter": 16, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:23.322779+00:00"}
+{"type": "tick", "counter": 131, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:26.294524+00:00"}
+{"type": "tick", "counter": 17, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:25.323215+00:00"}
+{"type": "tick", "counter": 132, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:28.465714+00:00"}
+{"type": "tick", "counter": 18, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:30.350987+00:00"}
+{"type": "tick", "counter": 133, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:33.609287+00:00"}
+{"type": "tick", "counter": 19, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:35.440179+00:00"}
+{"type": "tick", "counter": 134, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:38.621160+00:00"}
+{"type": "tick", "counter": 20, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:40.614825+00:00"}
+{"type": "tick", "counter": 135, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:43.725488+00:00"}
+{"type": "tick", "counter": 21, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:45.928437+00:00"}
+{"type": "tick", "counter": 136, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:48.858399+00:00"}
+{"type": "tick", "counter": 22, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:50.976677+00:00"}
+{"type": "tick", "counter": 137, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:54.058482+00:00"}
+{"type": "tick", "counter": 23, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:56.122908+00:00"}
+{"type": "tick", "counter": 138, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:21:56.109827+00:00"}
+{"type": "tick", "counter": 24, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:21:58.179495+00:00"}
+{"type": "tick", "counter": 139, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:01.246210+00:00"}
+{"type": "tick", "counter": 25, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:22:03.414050+00:00"}
+{"type": "tick", "counter": 140, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:06.442716+00:00"}
+{"type": "tick", "counter": 26, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:22:08.503680+00:00"}
+{"type": "tick", "counter": 141, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:11.686887+00:00"}
+{"type": "tick", "counter": 27, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:22:13.707857+00:00"}
+{"type": "tick", "counter": 142, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:16.813906+00:00"}
+{"type": "tick", "counter": 28, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:22:18.845294+00:00"}
+{"type": "tick", "counter": 143, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:22.015606+00:00"}
+{"type": "tick", "counter": 29, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:22:23.883317+00:00"}
+{"type": "tick", "counter": 144, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:27.034598+00:00"}
+{"type": "tick", "counter": 30, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:22:25.930899+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 100.0, "size": 1.0, "ts": "2026-02-13T18:22:25.931065+00:00"}
+{"type": "tick", "counter": 145, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:29.069693+00:00"}
+{"type": "tick", "counter": 31, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:30.983730+00:00"}
+{"type": "tick", "counter": 146, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:34.234588+00:00"}
+{"type": "tick", "counter": 32, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:36.123610+00:00"}
+{"type": "tick", "counter": 147, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:39.505476+00:00"}
+{"type": "tick", "counter": 33, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:41.193874+00:00"}
+{"type": "tick", "counter": 148, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:44.511944+00:00"}
+{"type": "tick", "counter": 34, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:46.239188+00:00"}
+{"type": "tick", "counter": 149, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:49.614247+00:00"}
+{"type": "tick", "counter": 35, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:51.280112+00:00"}
+{"type": "tick", "counter": 150, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:54.687669+00:00"}
+{"type": "tick", "counter": 36, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:56.335959+00:00"}
+{"type": "tick", "counter": 151, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:22:56.790619+00:00"}
+{"type": "tick", "counter": 37, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:22:58.332202+00:00"}
+{"type": "tick", "counter": 152, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:01.803008+00:00"}
+{"type": "tick", "counter": 38, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:23:03.523020+00:00"}
+{"type": "tick", "counter": 153, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:06.862769+00:00"}
+{"type": "tick", "counter": 39, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:23:08.689002+00:00"}
+{"type": "tick", "counter": 154, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:11.960496+00:00"}
+{"type": "tick", "counter": 40, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:23:13.702353+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 100.0, "exit_price": 90.0, "pnl": -10.0, "ts": "2026-02-13T18:23:13.702499+00:00"}
+{"type": "tick", "counter": 155, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:17.120909+00:00"}
+{"type": "tick", "counter": 41, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:18.763976+00:00"}
+{"type": "tick", "counter": 156, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:22.187766+00:00"}
+{"type": "tick", "counter": 42, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:23.890907+00:00"}
+{"type": "tick", "counter": 157, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:27.259324+00:00"}
+{"type": "tick", "counter": 43, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:25.927478+00:00"}
+{"type": "tick", "counter": 158, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:29.397699+00:00"}
+{"type": "tick", "counter": 44, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:30.975212+00:00"}
+{"type": "tick", "counter": 159, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:34.607818+00:00"}
+{"type": "tick", "counter": 45, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:36.070514+00:00"}
+{"type": "tick", "counter": 160, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:39.697905+00:00"}
+{"type": "tick", "counter": 46, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:41.081014+00:00"}
+{"type": "tick", "counter": 161, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:44.840512+00:00"}
+{"type": "tick", "counter": 47, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:46.085612+00:00"}
+{"type": "tick", "counter": 162, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:50.027962+00:00"}
+{"type": "tick", "counter": 48, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:51.154046+00:00"}
+{"type": "tick", "counter": 163, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:55.089919+00:00"}
+{"type": "tick", "counter": 49, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:56.217174+00:00"}
+{"type": "tick", "counter": 164, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:23:57.092441+00:00"}
+{"type": "tick", "counter": 50, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:23:58.213391+00:00"}
+{"type": "tick", "counter": 165, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:02.104438+00:00"}
+{"type": "tick", "counter": 51, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:03.227160+00:00"}
+{"type": "tick", "counter": 166, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:07.181276+00:00"}
+{"type": "tick", "counter": 52, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:08.306651+00:00"}
+{"type": "tick", "counter": 167, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:12.234200+00:00"}
+{"type": "tick", "counter": 53, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:13.311641+00:00"}
+{"type": "tick", "counter": 168, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:17.262736+00:00"}
+{"type": "tick", "counter": 54, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:18.338078+00:00"}
+{"type": "tick", "counter": 169, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:22.491518+00:00"}
+{"type": "tick", "counter": 55, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:23.421811+00:00"}
+{"type": "tick", "counter": 170, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:27.493501+00:00"}
+{"type": "tick", "counter": 56, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:25.555017+00:00"}
+{"type": "tick", "counter": 171, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:29.547489+00:00"}
+{"type": "tick", "counter": 57, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:30.506970+00:00"}
+{"type": "tick", "counter": 172, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:34.718591+00:00"}
+{"type": "tick", "counter": 58, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:35.522527+00:00"}
+{"type": "tick", "counter": 173, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:39.814357+00:00"}
+{"type": "tick", "counter": 59, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:40.530687+00:00"}
+{"type": "tick", "counter": 174, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:44.846453+00:00"}
+{"type": "tick", "counter": 60, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:24:45.598452+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 90.0, "size": 1.0, "ts": "2026-02-13T18:24:45.598624+00:00"}
+{"type": "tick", "counter": 175, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:49.986543+00:00"}
+{"type": "tick", "counter": 61, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:24:50.626164+00:00"}
+{"type": "tick", "counter": 176, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:55.047440+00:00"}
+{"type": "tick", "counter": 62, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:24:55.683467+00:00"}
+{"type": "tick", "counter": 177, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:24:57.090826+00:00"}
+{"type": "tick", "counter": 63, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:24:57.703185+00:00"}
+{"type": "tick", "counter": 178, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:02.151290+00:00"}
+{"type": "tick", "counter": 64, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:02.714896+00:00"}
+{"type": "tick", "counter": 179, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:07.321521+00:00"}
+{"type": "tick", "counter": 65, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:07.751379+00:00"}
+{"type": "tick", "counter": 180, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:12.425835+00:00"}
+{"type": "tick", "counter": 66, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:12.783169+00:00"}
+{"type": "tick", "counter": 181, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:17.550304+00:00"}
+{"type": "tick", "counter": 67, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:17.786915+00:00"}
+{"type": "tick", "counter": 182, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:22.654844+00:00"}
+{"type": "tick", "counter": 68, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:22.799413+00:00"}
+{"type": "tick", "counter": 183, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:27.761805+00:00"}
+{"type": "tick", "counter": 69, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:27.894861+00:00"}
+{"type": "tick", "counter": 184, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:29.888853+00:00"}
+{"type": "tick", "counter": 70, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:25:29.899576+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 90.0, "exit_price": 100.0, "pnl": 10.0, "ts": "2026-02-13T18:25:29.899682+00:00"}
+{"type": "tick", "counter": 185, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:34.922495+00:00"}
+{"type": "tick", "counter": 71, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:25:34.934592+00:00"}
+{"type": "tick", "counter": 186, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:40.015981+00:00"}
+{"type": "tick", "counter": 72, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:25:40.079823+00:00"}
+{"type": "tick", "counter": 73, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:25:45.115227+00:00"}
+{"type": "tick", "counter": 187, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:45.166795+00:00"}
+{"type": "tick", "counter": 74, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:25:50.127841+00:00"}
+{"type": "tick", "counter": 188, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:50.507322+00:00"}
+{"type": "tick", "counter": 75, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:25:55.201118+00:00"}
+{"type": "tick", "counter": 189, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:55.591134+00:00"}
+{"type": "tick", "counter": 76, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:25:57.288875+00:00"}
+{"type": "tick", "counter": 190, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:25:57.616509+00:00"}
+{"type": "tick", "counter": 77, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:02.368045+00:00"}
+{"type": "tick", "counter": 191, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:02.938575+00:00"}
+{"type": "tick", "counter": 78, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:07.440804+00:00"}
+{"type": "tick", "counter": 192, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:07.956250+00:00"}
+{"type": "tick", "counter": 79, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:12.483610+00:00"}
+{"type": "tick", "counter": 193, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:12.976653+00:00"}
+{"type": "tick", "counter": 80, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:17.495939+00:00"}
+{"type": "tick", "counter": 194, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:18.228832+00:00"}
+{"type": "tick", "counter": 81, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:22.579960+00:00"}
+{"type": "tick", "counter": 195, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:23.293471+00:00"}
+{"type": "tick", "counter": 82, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:27.594976+00:00"}
+{"type": "tick", "counter": 196, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:25.415811+00:00"}
+{"type": "tick", "counter": 83, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:29.708584+00:00"}
+{"type": "tick", "counter": 197, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:30.336318+00:00"}
+{"type": "tick", "counter": 84, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:34.922594+00:00"}
+{"type": "tick", "counter": 198, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:35.337681+00:00"}
+{"type": "tick", "counter": 85, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:39.991433+00:00"}
+{"type": "tick", "counter": 199, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:40.372087+00:00"}
+{"type": "tick", "counter": 86, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:45.053568+00:00"}
+{"type": "tick", "counter": 200, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:45.470355+00:00"}
+{"type": "tick", "counter": 87, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:50.088414+00:00"}
+{"type": "tick", "counter": 201, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:50.664524+00:00"}
+{"type": "tick", "counter": 88, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:55.164287+00:00"}
+{"type": "tick", "counter": 202, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:55.714389+00:00"}
+{"type": "tick", "counter": 89, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:26:57.229489+00:00"}
+{"type": "tick", "counter": 203, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:26:57.734855+00:00"}
+{"type": "tick", "counter": 90, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 2, "has_position": false, "ts": "2026-02-13T18:27:02.239145+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 100.0, "size": 1.0, "ts": "2026-02-13T18:27:02.239285+00:00"}
+{"type": "tick", "counter": 204, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:02.850583+00:00"}
+{"type": "tick", "counter": 91, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:07.287473+00:00"}
+{"type": "tick", "counter": 205, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:07.906592+00:00"}
+{"type": "tick", "counter": 92, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:12.295101+00:00"}
+{"type": "tick", "counter": 206, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:13.249643+00:00"}
+{"type": "tick", "counter": 93, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:17.363817+00:00"}
+{"type": "tick", "counter": 207, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:18.334560+00:00"}
+{"type": "tick", "counter": 94, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:22.402998+00:00"}
+{"type": "tick", "counter": 208, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:23.501513+00:00"}
+{"type": "tick", "counter": 95, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:27.412317+00:00"}
+{"type": "tick", "counter": 209, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:25.568621+00:00"}
+{"type": "tick", "counter": 96, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:29.492024+00:00"}
+{"type": "tick", "counter": 210, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:30.518562+00:00"}
+{"type": "tick", "counter": 97, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:34.516899+00:00"}
+{"type": "tick", "counter": 211, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:35.613037+00:00"}
+{"type": "tick", "counter": 98, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:39.620438+00:00"}
+{"type": "tick", "counter": 212, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:40.711996+00:00"}
+{"type": "tick", "counter": 99, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:44.714062+00:00"}
+{"type": "tick", "counter": 213, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:45.720967+00:00"}
+{"type": "tick", "counter": 100, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:49.866608+00:00"}
+{"type": "tick", "counter": 214, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:50.755683+00:00"}
+{"type": "tick", "counter": 101, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:54.894416+00:00"}
+{"type": "tick", "counter": 215, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:55.771471+00:00"}
+{"type": "tick", "counter": 102, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:27:56.974076+00:00"}
+{"type": "tick", "counter": 216, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:27:57.784460+00:00"}
+{"type": "tick", "counter": 103, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:02.103876+00:00"}
+{"type": "tick", "counter": 217, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:02.996128+00:00"}
+{"type": "tick", "counter": 104, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:07.312150+00:00"}
+{"type": "tick", "counter": 218, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:08.043034+00:00"}
+{"type": "tick", "counter": 105, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:12.391333+00:00"}
+{"type": "tick", "counter": 219, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:13.208027+00:00"}
+{"type": "tick", "counter": 106, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:17.533300+00:00"}
+{"type": "tick", "counter": 220, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:18.222772+00:00"}
+{"type": "tick", "counter": 107, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:22.611936+00:00"}
+{"type": "tick", "counter": 221, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:23.261851+00:00"}
+{"type": "tick", "counter": 108, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:27.612273+00:00"}
+{"type": "tick", "counter": 222, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:25.353131+00:00"}
+{"type": "tick", "counter": 109, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:29.719715+00:00"}
+{"type": "tick", "counter": 223, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:30.447903+00:00"}
+{"type": "tick", "counter": 110, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:34.909376+00:00"}
+{"type": "tick", "counter": 224, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:35.739488+00:00"}
+{"type": "tick", "counter": 111, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:40.170796+00:00"}
+{"type": "tick", "counter": 225, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:40.777323+00:00"}
+{"type": "tick", "counter": 112, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:45.248619+00:00"}
+{"type": "tick", "counter": 226, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:45.903412+00:00"}
+{"type": "tick", "counter": 113, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:50.374622+00:00"}
+{"type": "tick", "counter": 227, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:51.094905+00:00"}
+{"type": "tick", "counter": 114, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:55.641582+00:00"}
+{"type": "tick", "counter": 228, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:56.118405+00:00"}
+{"type": "tick", "counter": 115, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:28:57.661194+00:00"}
+{"type": "tick", "counter": 229, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:28:58.177745+00:00"}
+{"type": "tick", "counter": 116, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:02.698781+00:00"}
+{"type": "tick", "counter": 230, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:03.268938+00:00"}
+{"type": "tick", "counter": 117, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:07.932529+00:00"}
+{"type": "tick", "counter": 231, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:08.482936+00:00"}
+{"type": "tick", "counter": 118, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:13.049331+00:00"}
+{"type": "tick", "counter": 232, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:13.728987+00:00"}
+{"type": "tick", "counter": 119, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:18.108130+00:00"}
+{"type": "tick", "counter": 233, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:18.856608+00:00"}
+{"type": "tick", "counter": 120, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:23.276388+00:00"}
+{"type": "tick", "counter": 234, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:24.083734+00:00"}
+{"type": "tick", "counter": 121, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:28.385915+00:00"}
+{"type": "tick", "counter": 235, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:26.180081+00:00"}
+{"type": "tick", "counter": 122, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:30.519402+00:00"}
+{"type": "tick", "counter": 236, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:31.178768+00:00"}
+{"type": "tick", "counter": 123, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:35.624105+00:00"}
+{"type": "tick", "counter": 237, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:36.331940+00:00"}
+{"type": "tick", "counter": 124, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:40.730916+00:00"}
+{"type": "tick", "counter": 238, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:41.619996+00:00"}
+{"type": "tick", "counter": 125, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:45.910114+00:00"}
+{"type": "tick", "counter": 239, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:46.620677+00:00"}
+{"type": "tick", "counter": 126, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:50.948776+00:00"}
+{"type": "tick", "counter": 240, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:51.669292+00:00"}
+{"type": "tick", "counter": 127, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:56.054602+00:00"}
+{"type": "tick", "counter": 241, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:56.710360+00:00"}
+{"type": "tick", "counter": 128, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:29:58.074632+00:00"}
+{"type": "tick", "counter": 242, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:29:58.747929+00:00"}
+{"type": "tick", "counter": 129, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:03.292556+00:00"}
+{"type": "tick", "counter": 243, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:03.789470+00:00"}
+{"type": "tick", "counter": 130, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:08.388816+00:00"}
+{"type": "tick", "counter": 244, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:08.829283+00:00"}
+{"type": "tick", "counter": 131, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:13.546652+00:00"}
+{"type": "tick", "counter": 245, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:13.835300+00:00"}
+{"type": "tick", "counter": 132, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:18.576499+00:00"}
+{"type": "tick", "counter": 246, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:19.040968+00:00"}
+{"type": "tick", "counter": 133, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:23.726943+00:00"}
+{"type": "tick", "counter": 247, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:24.097395+00:00"}
+{"type": "tick", "counter": 134, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:25.836215+00:00"}
+{"type": "tick", "counter": 248, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:26.244957+00:00"}
+{"type": "tick", "counter": 135, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:30.779721+00:00"}
+{"type": "tick", "counter": 249, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:31.195883+00:00"}
+{"type": "tick", "counter": 136, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:36.046631+00:00"}
+{"type": "tick", "counter": 250, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:36.210562+00:00"}
+{"type": "tick", "counter": 137, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:41.112412+00:00"}
+{"type": "tick", "counter": 251, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:41.238237+00:00"}
+{"type": "tick", "counter": 138, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:46.288812+00:00"}
+{"type": "tick", "counter": 252, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:46.400846+00:00"}
+{"type": "tick", "counter": 253, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:51.541029+00:00"}
+{"type": "tick", "counter": 139, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:51.564142+00:00"}
+{"type": "tick", "counter": 254, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:56.551423+00:00"}
+{"type": "tick", "counter": 140, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:56.603500+00:00"}
+{"type": "tick", "counter": 141, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:30:58.614459+00:00"}
+{"type": "tick", "counter": 255, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:30:58.662317+00:00"}
+{"type": "tick", "counter": 142, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:03.648612+00:00"}
+{"type": "tick", "counter": 256, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:03.762286+00:00"}
+{"type": "tick", "counter": 143, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:08.711435+00:00"}
+{"type": "tick", "counter": 257, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:08.767037+00:00"}
+{"type": "tick", "counter": 144, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:13.740133+00:00"}
+{"type": "tick", "counter": 258, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:13.772431+00:00"}
+{"type": "tick", "counter": 145, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:18.873306+00:00"}
+{"type": "tick", "counter": 259, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:18.910353+00:00"}
+{"type": "tick", "counter": 146, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:23.960125+00:00"}
+{"type": "tick", "counter": 260, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:24.131756+00:00"}
+{"type": "tick", "counter": 147, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:26.015744+00:00"}
+{"type": "tick", "counter": 261, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:26.206609+00:00"}
+{"type": "tick", "counter": 148, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:30.974608+00:00"}
+{"type": "tick", "counter": 262, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:31.227777+00:00"}
+{"type": "tick", "counter": 149, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:36.069907+00:00"}
+{"type": "tick", "counter": 263, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:36.229261+00:00"}
+{"type": "tick", "counter": 150, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:41.125069+00:00"}
+{"type": "tick", "counter": 264, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:41.232305+00:00"}
+{"type": "tick", "counter": 151, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:46.143372+00:00"}
+{"type": "tick", "counter": 265, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:46.623681+00:00"}
+{"type": "tick", "counter": 152, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:51.224589+00:00"}
+{"type": "tick", "counter": 266, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:51.641361+00:00"}
+{"type": "tick", "counter": 153, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:56.324740+00:00"}
+{"type": "tick", "counter": 267, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:56.647978+00:00"}
+{"type": "tick", "counter": 154, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:31:58.369374+00:00"}
+{"type": "tick", "counter": 268, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:31:58.662530+00:00"}
+{"type": "tick", "counter": 155, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:03.460192+00:00"}
+{"type": "tick", "counter": 269, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:03.682734+00:00"}
+{"type": "tick", "counter": 156, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:08.552290+00:00"}
+{"type": "tick", "counter": 270, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:08.695586+00:00"}
+{"type": "tick", "counter": 157, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:13.699958+00:00"}
+{"type": "tick", "counter": 271, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:13.897648+00:00"}
+{"type": "tick", "counter": 158, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:18.916808+00:00"}
+{"type": "tick", "counter": 272, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:19.251777+00:00"}
+{"type": "tick", "counter": 159, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:23.974774+00:00"}
+{"type": "tick", "counter": 273, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:24.306603+00:00"}
+{"type": "tick", "counter": 160, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:26.050166+00:00"}
+{"type": "tick", "counter": 274, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:26.416924+00:00"}
+{"type": "tick", "counter": 161, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:30.986686+00:00"}
+{"type": "tick", "counter": 275, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:31.377307+00:00"}
+{"type": "tick", "counter": 162, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:36.246482+00:00"}
+{"type": "tick", "counter": 276, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:36.702332+00:00"}
+{"type": "tick", "counter": 163, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:41.336479+00:00"}
+{"type": "tick", "counter": 277, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:41.805828+00:00"}
+{"type": "tick", "counter": 164, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:46.532180+00:00"}
+{"type": "tick", "counter": 278, "symbol": "BTCUSDT", "mode": "paper", "ts": "2026-02-13T18:32:47.030479+00:00"}
+{"type": "tick", "counter": 165, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 3, "has_position": true, "ts": "2026-02-13T18:32:51.596967+00:00"}

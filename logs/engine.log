@@ -1,0 +1,1134 @@
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3}, "ts": "2026-02-13T18:37:57.404586+00:00"}
+{"type": "tick", "counter": 1, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:37:57.404710+00:00"}
+{"type": "tick", "counter": 2, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:37:59.485461+00:00"}
+{"type": "tick", "counter": 3, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:04.593644+00:00"}
+{"type": "tick", "counter": 4, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:09.800212+00:00"}
+{"type": "tick", "counter": 5, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:15.139483+00:00"}
+{"type": "tick", "counter": 6, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:20.187439+00:00"}
+{"type": "tick", "counter": 7, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:25.232918+00:00"}
+{"type": "tick", "counter": 8, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:27.243899+00:00"}
+{"type": "tick", "counter": 9, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:32.345749+00:00"}
+{"type": "tick", "counter": 10, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:37.449672+00:00"}
+{"type": "tick", "counter": 11, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:42.628838+00:00"}
+{"type": "tick", "counter": 12, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:47.880368+00:00"}
+{"type": "tick", "counter": 13, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:52.939924+00:00"}
+{"type": "tick", "counter": 14, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:38:58.107325+00:00"}
+{"type": "tick", "counter": 15, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:00.359103+00:00"}
+{"type": "tick", "counter": 16, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:05.362991+00:00"}
+{"type": "tick", "counter": 17, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:10.467566+00:00"}
+{"type": "tick", "counter": 18, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:15.686539+00:00"}
+{"type": "tick", "counter": 19, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:20.808509+00:00"}
+{"type": "tick", "counter": 20, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:25.851930+00:00"}
+{"type": "tick", "counter": 21, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:27.976445+00:00"}
+{"type": "tick", "counter": 22, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:33.229033+00:00"}
+{"type": "tick", "counter": 23, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:38.408348+00:00"}
+{"type": "tick", "counter": 24, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:43.510597+00:00"}
+{"type": "tick", "counter": 25, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:48.572338+00:00"}
+{"type": "tick", "counter": 26, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:53.744086+00:00"}
+{"type": "tick", "counter": 27, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:39:58.773763+00:00"}
+{"type": "tick", "counter": 28, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:40:00.872404+00:00"}
+{"type": "tick", "counter": 29, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:40:06.030928+00:00"}
+{"type": "tick", "counter": 30, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T18:40:11.262835+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 100.0, "size": 1.0, "ts": "2026-02-13T18:40:11.263045+00:00"}
+{"type": "tick", "counter": 31, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:16.359019+00:00"}
+{"type": "tick", "counter": 32, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:21.530094+00:00"}
+{"type": "tick", "counter": 33, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:26.768304+00:00"}
+{"type": "tick", "counter": 34, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:28.794281+00:00"}
+{"type": "tick", "counter": 35, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:33.948790+00:00"}
+{"type": "tick", "counter": 36, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:39.189408+00:00"}
+{"type": "tick", "counter": 37, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:44.235834+00:00"}
+{"type": "tick", "counter": 38, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:49.329139+00:00"}
+{"type": "tick", "counter": 39, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:54.535716+00:00"}
+{"type": "tick", "counter": 40, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 1, "has_position": true, "ts": "2026-02-13T18:40:56.689212+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 100.0, "exit_price": 90.0, "pnl": -10.0, "ts": "2026-02-13T18:40:56.689488+00:00"}
+{"type": "tick", "counter": 41, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:01.640647+00:00"}
+{"type": "tick", "counter": 42, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:06.773211+00:00"}
+{"type": "tick", "counter": 43, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:11.803382+00:00"}
+{"type": "tick", "counter": 44, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:16.895884+00:00"}
+{"type": "tick", "counter": 45, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:21.952402+00:00"}
+{"type": "tick", "counter": 46, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:26.957741+00:00"}
+{"type": "tick", "counter": 47, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:29.029928+00:00"}
+{"type": "tick", "counter": 48, "symbol": "BTCUSDT", "mode": "paper", "price": 98.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:34.111981+00:00"}
+{"type": "tick", "counter": 49, "symbol": "BTCUSDT", "mode": "paper", "price": 99.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:39.184415+00:00"}
+{"type": "tick", "counter": 50, "symbol": "BTCUSDT", "mode": "paper", "price": 100.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:44.282750+00:00"}
+{"type": "tick", "counter": 51, "symbol": "BTCUSDT", "mode": "paper", "price": 101.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:49.439379+00:00"}
+{"type": "tick", "counter": 52, "symbol": "BTCUSDT", "mode": "paper", "price": 102.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:54.447609+00:00"}
+{"type": "tick", "counter": 53, "symbol": "BTCUSDT", "mode": "paper", "price": 103.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:41:59.537003+00:00"}
+{"type": "tick", "counter": 54, "symbol": "BTCUSDT", "mode": "paper", "price": 104.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:01.682466+00:00"}
+{"type": "tick", "counter": 55, "symbol": "BTCUSDT", "mode": "paper", "price": 105.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:06.895259+00:00"}
+{"type": "tick", "counter": 56, "symbol": "BTCUSDT", "mode": "paper", "price": 106.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:11.961249+00:00"}
+{"type": "tick", "counter": 57, "symbol": "BTCUSDT", "mode": "paper", "price": 107.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:17.112308+00:00"}
+{"type": "tick", "counter": 58, "symbol": "BTCUSDT", "mode": "paper", "price": 108.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:22.326534+00:00"}
+{"type": "tick", "counter": 59, "symbol": "BTCUSDT", "mode": "paper", "price": 109.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:27.329772+00:00"}
+{"type": "tick", "counter": 60, "symbol": "BTCUSDT", "mode": "paper", "price": 90.0, "trades_today": 1, "has_position": false, "ts": "2026-02-13T18:42:29.382624+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 90.0, "size": 1.0, "ts": "2026-02-13T18:42:29.382811+00:00"}
+{"type": "tick", "counter": 61, "symbol": "BTCUSDT", "mode": "paper", "price": 91.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:42:34.586159+00:00"}
+{"type": "tick", "counter": 62, "symbol": "BTCUSDT", "mode": "paper", "price": 92.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:42:39.865425+00:00"}
+{"type": "tick", "counter": 63, "symbol": "BTCUSDT", "mode": "paper", "price": 93.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:42:44.921197+00:00"}
+{"type": "tick", "counter": 64, "symbol": "BTCUSDT", "mode": "paper", "price": 94.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:42:50.086807+00:00"}
+{"type": "tick", "counter": 65, "symbol": "BTCUSDT", "mode": "paper", "price": 95.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:42:55.149782+00:00"}
+{"type": "tick", "counter": 66, "symbol": "BTCUSDT", "mode": "paper", "price": 96.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:42:57.265152+00:00"}
+{"type": "tick", "counter": 67, "symbol": "BTCUSDT", "mode": "paper", "price": 97.0, "trades_today": 2, "has_position": true, "ts": "2026-02-13T18:43:02.238022+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3}, "ts": "2026-02-13T18:52:53.270538+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3}, "ts": "2026-02-13T18:58:42.755575+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3}, "ts": "2026-02-13T19:05:12.150936+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69004.8, "ts": "2026-02-13T19:05:12.529065+00:00"}
+{"type": "tick", "counter": 1, "symbol": "BTCUSDT", "mode": "paper", "price": 69004.8, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:12.529427+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68986.38, "ts": "2026-02-13T19:05:17.924473+00:00"}
+{"type": "tick", "counter": 2, "symbol": "BTCUSDT", "mode": "paper", "price": 68986.38, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:17.924804+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68998.74, "ts": "2026-02-13T19:05:23.434776+00:00"}
+{"type": "tick", "counter": 3, "symbol": "BTCUSDT", "mode": "paper", "price": 68998.74, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:23.435158+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68989.07, "ts": "2026-02-13T19:05:28.882925+00:00"}
+{"type": "tick", "counter": 4, "symbol": "BTCUSDT", "mode": "paper", "price": 68989.07, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:28.884989+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69007.53, "ts": "2026-02-13T19:05:31.296900+00:00"}
+{"type": "tick", "counter": 5, "symbol": "BTCUSDT", "mode": "paper", "price": 69007.53, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:31.297057+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69006.66, "ts": "2026-02-13T19:05:36.703952+00:00"}
+{"type": "tick", "counter": 6, "symbol": "BTCUSDT", "mode": "paper", "price": 69006.66, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:36.704374+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69013.15, "ts": "2026-02-13T19:05:42.212210+00:00"}
+{"type": "tick", "counter": 7, "symbol": "BTCUSDT", "mode": "paper", "price": 69013.15, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:42.212652+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69012.93, "ts": "2026-02-13T19:05:47.636084+00:00"}
+{"type": "tick", "counter": 8, "symbol": "BTCUSDT", "mode": "paper", "price": 69012.93, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:47.636419+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69010.87, "ts": "2026-02-13T19:05:53.256994+00:00"}
+{"type": "tick", "counter": 9, "symbol": "BTCUSDT", "mode": "paper", "price": 69010.87, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:53.257271+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69020.4, "ts": "2026-02-13T19:05:58.640707+00:00"}
+{"type": "tick", "counter": 10, "symbol": "BTCUSDT", "mode": "paper", "price": 69020.4, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:05:58.640878+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69027.76, "ts": "2026-02-13T19:06:01.073211+00:00"}
+{"type": "tick", "counter": 11, "symbol": "BTCUSDT", "mode": "paper", "price": 69027.76, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:01.073678+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69038.17, "ts": "2026-02-13T19:06:06.715129+00:00"}
+{"type": "tick", "counter": 12, "symbol": "BTCUSDT", "mode": "paper", "price": 69038.17, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:06.715276+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69026.73, "ts": "2026-02-13T19:06:12.122399+00:00"}
+{"type": "tick", "counter": 13, "symbol": "BTCUSDT", "mode": "paper", "price": 69026.73, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:12.122679+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69015.78, "ts": "2026-02-13T19:06:17.646635+00:00"}
+{"type": "tick", "counter": 14, "symbol": "BTCUSDT", "mode": "paper", "price": 69015.78, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:17.646809+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69020.82, "ts": "2026-02-13T19:06:23.314910+00:00"}
+{"type": "tick", "counter": 15, "symbol": "BTCUSDT", "mode": "paper", "price": 69020.82, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:23.315240+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69020.83, "ts": "2026-02-13T19:06:28.741189+00:00"}
+{"type": "tick", "counter": 16, "symbol": "BTCUSDT", "mode": "paper", "price": 69020.83, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:28.741609+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69020.83, "ts": "2026-02-13T19:06:31.190355+00:00"}
+{"type": "tick", "counter": 17, "symbol": "BTCUSDT", "mode": "paper", "price": 69020.83, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:31.190622+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69043.94, "ts": "2026-02-13T19:06:36.671724+00:00"}
+{"type": "tick", "counter": 18, "symbol": "BTCUSDT", "mode": "paper", "price": 69043.94, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:36.671987+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69054.33, "ts": "2026-02-13T19:06:42.169465+00:00"}
+{"type": "tick", "counter": 19, "symbol": "BTCUSDT", "mode": "paper", "price": 69054.33, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:42.169817+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69044.0, "ts": "2026-02-13T19:06:47.808766+00:00"}
+{"type": "tick", "counter": 20, "symbol": "BTCUSDT", "mode": "paper", "price": 69044.0, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:47.809066+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69044.01, "ts": "2026-02-13T19:06:53.246598+00:00"}
+{"type": "tick", "counter": 21, "symbol": "BTCUSDT", "mode": "paper", "price": 69044.01, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:53.247015+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69037.09, "ts": "2026-02-13T19:06:58.782096+00:00"}
+{"type": "tick", "counter": 22, "symbol": "BTCUSDT", "mode": "paper", "price": 69037.09, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:06:58.782382+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69075.79, "ts": "2026-02-13T19:07:01.210319+00:00"}
+{"type": "tick", "counter": 23, "symbol": "BTCUSDT", "mode": "paper", "price": 69075.79, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:01.210621+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69075.91, "ts": "2026-02-13T19:07:06.613654+00:00"}
+{"type": "tick", "counter": 24, "symbol": "BTCUSDT", "mode": "paper", "price": 69075.91, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:06.613953+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69078.01, "ts": "2026-02-13T19:07:12.233700+00:00"}
+{"type": "tick", "counter": 25, "symbol": "BTCUSDT", "mode": "paper", "price": 69078.01, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:12.233819+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69074.14, "ts": "2026-02-13T19:07:17.591794+00:00"}
+{"type": "tick", "counter": 26, "symbol": "BTCUSDT", "mode": "paper", "price": 69074.14, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:17.592230+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69091.17, "ts": "2026-02-13T19:07:23.085672+00:00"}
+{"type": "tick", "counter": 27, "symbol": "BTCUSDT", "mode": "paper", "price": 69091.17, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:23.085906+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69088.53, "ts": "2026-02-13T19:07:28.718482+00:00"}
+{"type": "tick", "counter": 28, "symbol": "BTCUSDT", "mode": "paper", "price": 69088.53, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:28.718850+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69079.31, "ts": "2026-02-13T19:07:31.148418+00:00"}
+{"type": "tick", "counter": 29, "symbol": "BTCUSDT", "mode": "paper", "price": 69079.31, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:31.148756+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69068.81, "ts": "2026-02-13T19:07:36.699305+00:00"}
+{"type": "tick", "counter": 30, "symbol": "BTCUSDT", "mode": "paper", "price": 69068.81, "trades_today": 0, "has_position": false, "ts": "2026-02-13T19:07:36.699451+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 69068.81, "size": 1.0, "ts": "2026-02-13T19:07:36.699515+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69042.26, "ts": "2026-02-13T19:07:42.358041+00:00"}
+{"type": "tick", "counter": 31, "symbol": "BTCUSDT", "mode": "paper", "price": 69042.26, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:07:42.358423+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69082.4, "ts": "2026-02-13T19:07:47.798033+00:00"}
+{"type": "tick", "counter": 32, "symbol": "BTCUSDT", "mode": "paper", "price": 69082.4, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:07:47.798197+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69083.42, "ts": "2026-02-13T19:07:53.443075+00:00"}
+{"type": "tick", "counter": 33, "symbol": "BTCUSDT", "mode": "paper", "price": 69083.42, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:07:53.443432+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69080.4, "ts": "2026-02-13T19:07:58.795769+00:00"}
+{"type": "tick", "counter": 34, "symbol": "BTCUSDT", "mode": "paper", "price": 69080.4, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:07:58.796108+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69070.01, "ts": "2026-02-13T19:08:01.226838+00:00"}
+{"type": "tick", "counter": 35, "symbol": "BTCUSDT", "mode": "paper", "price": 69070.01, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:08:01.227189+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69068.81, "ts": "2026-02-13T19:08:06.872848+00:00"}
+{"type": "tick", "counter": 36, "symbol": "BTCUSDT", "mode": "paper", "price": 69068.81, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:08:06.873217+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69088.2, "ts": "2026-02-13T19:08:12.306030+00:00"}
+{"type": "tick", "counter": 37, "symbol": "BTCUSDT", "mode": "paper", "price": 69088.2, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:08:12.306497+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69079.3, "ts": "2026-02-13T19:08:17.879583+00:00"}
+{"type": "tick", "counter": 38, "symbol": "BTCUSDT", "mode": "paper", "price": 69079.3, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:08:17.879963+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69042.94, "ts": "2026-02-13T19:08:23.531803+00:00"}
+{"type": "tick", "counter": 39, "symbol": "BTCUSDT", "mode": "paper", "price": 69042.94, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:08:23.532099+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69043.7, "ts": "2026-02-13T19:08:29.001393+00:00"}
+{"type": "tick", "counter": 40, "symbol": "BTCUSDT", "mode": "paper", "price": 69043.7, "trades_today": 1, "has_position": true, "ts": "2026-02-13T19:08:29.001584+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 69068.81, "exit_price": 69043.7, "pnl": -25.110000000000582, "ts": "2026-02-13T19:08:29.001672+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69036.1, "ts": "2026-02-13T19:08:31.451862+00:00"}
+{"type": "tick", "counter": 41, "symbol": "BTCUSDT", "mode": "paper", "price": 69036.1, "trades_today": 1, "has_position": false, "ts": "2026-02-13T19:08:31.452195+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 69035.44, "ts": "2026-02-13T19:08:36.818670+00:00"}
+{"type": "tick", "counter": 42, "symbol": "BTCUSDT", "mode": "paper", "price": 69035.44, "trades_today": 1, "has_position": false, "ts": "2026-02-13T19:08:36.819033+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 5, "trade_enabled": true, "initial_equity": 100.0, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 3, "strategy": {"name": "ema_cross", "ema_fast": 12, "ema_slow": 26, "max_hold_ticks": 60, "stop_loss_pct": 1.0}}, "ts": "2026-02-13T22:46:11.187125+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:11.505965+00:00"}
+{"type": "tick", "counter": 1, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:11.506215+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:11.506264+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:11.822789+00:00"}
+{"type": "tick", "counter": 2, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:11.823103+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:11.823149+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:12.134377+00:00"}
+{"type": "tick", "counter": 3, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:12.134672+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:12.134727+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:12.435587+00:00"}
+{"type": "tick", "counter": 4, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:12.435892+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:12.435945+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:12.742917+00:00"}
+{"type": "tick", "counter": 5, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:12.743167+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:12.743210+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:13.046240+00:00"}
+{"type": "tick", "counter": 6, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:13.046461+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:13.048669+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:13.364250+00:00"}
+{"type": "tick", "counter": 7, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:13.364590+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:13.364650+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:13.676362+00:00"}
+{"type": "tick", "counter": 8, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:13.676761+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:13.676821+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:13.987803+00:00"}
+{"type": "tick", "counter": 9, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:13.988033+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:13.988077+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:14.290224+00:00"}
+{"type": "tick", "counter": 10, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:14.290518+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:14.290572+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:14.599091+00:00"}
+{"type": "tick", "counter": 11, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:14.599372+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:14.599417+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:14.913165+00:00"}
+{"type": "tick", "counter": 12, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:14.913441+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.2, "ema_slow": 68903.2, "signal": null, "ts": "2026-02-13T22:46:14.913488+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.19, "ts": "2026-02-13T22:46:15.229332+00:00"}
+{"type": "tick", "counter": 13, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.19, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:15.229647+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.19846153846, "ema_slow": 68903.19925925926, "signal": "short", "ts": "2026-02-13T22:46:15.229699+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.2, "ts": "2026-02-13T22:46:15.537018+00:00"}
+{"type": "tick", "counter": 14, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.2, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:15.537316+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.19869822485, "ema_slow": 68903.19931412894, "signal": null, "ts": "2026-02-13T22:46:15.537378+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:15.854620+00:00"}
+{"type": "tick", "counter": 15, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:15.854975+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.42197542102, "ema_slow": 68903.30677234162, "signal": "long", "ts": "2026-02-13T22:46:15.855035+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 68904.65, "size": 0.0014512808642087292, "stop_price": 68215.6035, "equity_before": 100.0, "risk_pct": 0.01, "risk_amount": 1.0, "reason": "ema_cross_long", "ts": "2026-02-13T22:46:15.855120+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:16.171251+00:00"}
+{"type": "tick", "counter": 16, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:16.171440+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.61244074086, "ema_slow": 68903.40701142742, "signal": null, "ts": "2026-02-13T22:46:16.171504+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:16.495742+00:00"}
+{"type": "tick", "counter": 17, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:16.496030+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.77360370381, "ema_slow": 68903.49982539576, "signal": null, "ts": "2026-02-13T22:46:16.496101+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:16.850373+00:00"}
+{"type": "tick", "counter": 18, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:16.850580+00:00"}
+{"type": "strategy_state", "ema_fast": 68903.90997236477, "ema_slow": 68903.58576425533, "signal": null, "ts": "2026-02-13T22:46:16.850616+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:17.164035+00:00"}
+{"type": "tick", "counter": 19, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:17.164321+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.02536123173, "ema_slow": 68903.66533727346, "signal": null, "ts": "2026-02-13T22:46:17.164371+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:17.481801+00:00"}
+{"type": "tick", "counter": 20, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:17.482126+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.12145950377, "ema_slow": 68903.7382752532, "signal": null, "ts": "2026-02-13T22:46:17.482185+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:17.803744+00:00"}
+{"type": "tick", "counter": 21, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:17.804145+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.2043118878, "ema_slow": 68903.80655116036, "signal": null, "ts": "2026-02-13T22:46:17.804219+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:18.111932+00:00"}
+{"type": "tick", "counter": 22, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:18.112282+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.27441775122, "ema_slow": 68903.86976959293, "signal": null, "ts": "2026-02-13T22:46:18.112347+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:18.438346+00:00"}
+{"type": "tick", "counter": 23, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:18.438623+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.3337380972, "ema_slow": 68903.92830517863, "signal": null, "ts": "2026-02-13T22:46:18.438671+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:18.743562+00:00"}
+{"type": "tick", "counter": 24, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:18.743854+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.38239377455, "ema_slow": 68903.98176405429, "signal": null, "ts": "2026-02-13T22:46:18.743902+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:19.055988+00:00"}
+{"type": "tick", "counter": 25, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:19.056128+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.42510242462, "ema_slow": 68904.03200375398, "signal": null, "ts": "2026-02-13T22:46:19.056186+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:19.374134+00:00"}
+{"type": "tick", "counter": 26, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:19.374306+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.4597020516, "ema_slow": 68904.07778125368, "signal": null, "ts": "2026-02-13T22:46:19.374386+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:19.679554+00:00"}
+{"type": "tick", "counter": 27, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:19.679810+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.48897865904, "ema_slow": 68904.12016782748, "signal": null, "ts": "2026-02-13T22:46:19.679858+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:19.987167+00:00"}
+{"type": "tick", "counter": 28, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:19.987486+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.51528963457, "ema_slow": 68904.16015539582, "signal": null, "ts": "2026-02-13T22:46:19.987554+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:20.308842+00:00"}
+{"type": "tick", "counter": 29, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:20.309178+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.53755276771, "ema_slow": 68904.19718092206, "signal": null, "ts": "2026-02-13T22:46:20.309250+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:20.635331+00:00"}
+{"type": "tick", "counter": 30, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:20.635699+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.55639080345, "ema_slow": 68904.23146381672, "signal": null, "ts": "2026-02-13T22:46:20.635761+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:20.945451+00:00"}
+{"type": "tick", "counter": 31, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:20.945638+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.57233067985, "ema_slow": 68904.2632072377, "signal": null, "ts": "2026-02-13T22:46:20.945708+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.66, "ts": "2026-02-13T22:46:21.262300+00:00"}
+{"type": "tick", "counter": 32, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.66, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:21.262561+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.58581826756, "ema_slow": 68904.29259929417, "signal": null, "ts": "2026-02-13T22:46:21.262603+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:21.570660+00:00"}
+{"type": "tick", "counter": 33, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:21.570965+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.59569238024, "ema_slow": 68904.31907342053, "signal": null, "ts": "2026-02-13T22:46:21.571016+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:21.881238+00:00"}
+{"type": "tick", "counter": 34, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:21.881388+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.60404739866, "ema_slow": 68904.34358650049, "signal": null, "ts": "2026-02-13T22:46:21.881434+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.65, "ts": "2026-02-13T22:46:22.197046+00:00"}
+{"type": "tick", "counter": 35, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.65, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:22.197186+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.61111702964, "ema_slow": 68904.36628379674, "signal": null, "ts": "2026-02-13T22:46:22.197242+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:22.503152+00:00"}
+{"type": "tick", "counter": 36, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:22.503444+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.67094517892, "ema_slow": 68904.41322573772, "signal": null, "ts": "2026-02-13T22:46:22.503499+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:22.810360+00:00"}
+{"type": "tick", "counter": 37, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:22.810652+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.72156899754, "ema_slow": 68904.45669049789, "signal": null, "ts": "2026-02-13T22:46:22.810689+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:23.119110+00:00"}
+{"type": "tick", "counter": 38, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:23.119316+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.76440453638, "ema_slow": 68904.4969356462, "signal": null, "ts": "2026-02-13T22:46:23.119381+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:23.447139+00:00"}
+{"type": "tick", "counter": 39, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:23.447389+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.79911153078, "ema_slow": 68904.53345893166, "signal": null, "ts": "2026-02-13T22:46:23.447546+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:23.768146+00:00"}
+{"type": "tick", "counter": 40, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:23.768253+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.82847898759, "ema_slow": 68904.56727678857, "signal": null, "ts": "2026-02-13T22:46:23.768286+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:24.071311+00:00"}
+{"type": "tick", "counter": 41, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:24.071434+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.85332837411, "ema_slow": 68904.59858961904, "signal": null, "ts": "2026-02-13T22:46:24.071475+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:24.409804+00:00"}
+{"type": "tick", "counter": 42, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:24.410147+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.87435477809, "ema_slow": 68904.6275829806, "signal": null, "ts": "2026-02-13T22:46:24.410212+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:24.755542+00:00"}
+{"type": "tick", "counter": 43, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:24.755733+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.8921463507, "ema_slow": 68904.65442868574, "signal": null, "ts": "2026-02-13T22:46:24.755798+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:25.069945+00:00"}
+{"type": "tick", "counter": 44, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:25.070113+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.90720075829, "ema_slow": 68904.67928582012, "signal": null, "ts": "2026-02-13T22:46:25.070157+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:25.403858+00:00"}
+{"type": "tick", "counter": 45, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:25.404002+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.91993910317, "ema_slow": 68904.7023016853, "signal": null, "ts": "2026-02-13T22:46:25.404036+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:25.709108+00:00"}
+{"type": "tick", "counter": 46, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:25.709388+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.93071770268, "ema_slow": 68904.72361267157, "signal": null, "ts": "2026-02-13T22:46:25.709437+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:26.057720+00:00"}
+{"type": "tick", "counter": 47, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:26.058090+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.93983805612, "ema_slow": 68904.74334506626, "signal": null, "ts": "2026-02-13T22:46:26.058150+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:26.357306+00:00"}
+{"type": "tick", "counter": 48, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:26.357530+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.9490937398, "ema_slow": 68904.76235654284, "signal": null, "ts": "2026-02-13T22:46:26.357570+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:26.668146+00:00"}
+{"type": "tick", "counter": 49, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:26.668487+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.95692547213, "ema_slow": 68904.77995976189, "signal": null, "ts": "2026-02-13T22:46:26.668547+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:26.973426+00:00"}
+{"type": "tick", "counter": 50, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:26.973527+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.96355232257, "ema_slow": 68904.79625903879, "signal": null, "ts": "2026-02-13T22:46:26.973559+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:27.335135+00:00"}
+{"type": "tick", "counter": 51, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:27.335443+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.96915965756, "ema_slow": 68904.81135096184, "signal": null, "ts": "2026-02-13T22:46:27.335521+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.0, "ts": "2026-02-13T22:46:27.648360+00:00"}
+{"type": "tick", "counter": 52, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:27.648671+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.97390432563, "ema_slow": 68904.82532496467, "signal": null, "ts": "2026-02-13T22:46:27.648710+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68904.99, "ts": "2026-02-13T22:46:27.984657+00:00"}
+{"type": "tick", "counter": 53, "symbol": "BTCUSDT", "mode": "paper", "price": 68904.99, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:27.985041+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.97638058322, "ema_slow": 68904.83752311544, "signal": null, "ts": "2026-02-13T22:46:27.985101+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68899.82, "ts": "2026-02-13T22:46:28.290988+00:00"}
+{"type": "tick", "counter": 54, "symbol": "BTCUSDT", "mode": "paper", "price": 68899.82, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:28.291261+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.18309126272, "ema_slow": 68904.46585473651, "signal": "short", "ts": "2026-02-13T22:46:28.291306+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68896.37, "ts": "2026-02-13T22:46:28.600691+00:00"}
+{"type": "tick", "counter": 55, "symbol": "BTCUSDT", "mode": "paper", "price": 68896.37, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:28.600927+00:00"}
+{"type": "strategy_state", "ema_fast": 68902.9810772223, "ema_slow": 68903.86616179306, "signal": null, "ts": "2026-02-13T22:46:28.600964+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68896.05, "ts": "2026-02-13T22:46:28.914271+00:00"}
+{"type": "tick", "counter": 56, "symbol": "BTCUSDT", "mode": "paper", "price": 68896.05, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:28.914456+00:00"}
+{"type": "strategy_state", "ema_fast": 68901.91475764963, "ema_slow": 68903.28718684542, "signal": null, "ts": "2026-02-13T22:46:28.914507+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68896.06, "ts": "2026-02-13T22:46:29.221558+00:00"}
+{"type": "tick", "counter": 57, "symbol": "BTCUSDT", "mode": "paper", "price": 68896.06, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:29.221700+00:00"}
+{"type": "strategy_state", "ema_fast": 68901.01402570354, "ema_slow": 68902.75183967169, "signal": null, "ts": "2026-02-13T22:46:29.221742+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68895.4, "ts": "2026-02-13T22:46:29.537790+00:00"}
+{"type": "tick", "counter": 58, "symbol": "BTCUSDT", "mode": "paper", "price": 68895.4, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:29.537953+00:00"}
+{"type": "strategy_state", "ema_fast": 68900.15032944146, "ema_slow": 68902.20725895527, "signal": null, "ts": "2026-02-13T22:46:29.538020+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:29.856016+00:00"}
+{"type": "tick", "counter": 59, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:29.856247+00:00"}
+{"type": "strategy_state", "ema_fast": 68898.8964326043, "ema_slow": 68901.45116569933, "signal": null, "ts": "2026-02-13T22:46:29.856307+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:30.162367+00:00"}
+{"type": "tick", "counter": 60, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:30.162522+00:00"}
+{"type": "strategy_state", "ema_fast": 68897.83544297288, "ema_slow": 68900.75107935123, "signal": null, "ts": "2026-02-13T22:46:30.162557+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:30.479627+00:00"}
+{"type": "tick", "counter": 61, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:30.479790+00:00"}
+{"type": "strategy_state", "ema_fast": 68896.93768251552, "ema_slow": 68900.10285125114, "signal": null, "ts": "2026-02-13T22:46:30.479838+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:30.794711+00:00"}
+{"type": "tick", "counter": 62, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:30.795059+00:00"}
+{"type": "strategy_state", "ema_fast": 68896.17803905159, "ema_slow": 68899.50264004736, "signal": null, "ts": "2026-02-13T22:46:30.795113+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:31.111481+00:00"}
+{"type": "tick", "counter": 63, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:31.111710+00:00"}
+{"type": "strategy_state", "ema_fast": 68895.53526381288, "ema_slow": 68898.94688893274, "signal": null, "ts": "2026-02-13T22:46:31.111748+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:31.438342+00:00"}
+{"type": "tick", "counter": 64, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:31.438499+00:00"}
+{"type": "strategy_state", "ema_fast": 68894.99137707244, "ema_slow": 68898.43230456735, "signal": null, "ts": "2026-02-13T22:46:31.438537+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68892.0, "ts": "2026-02-13T22:46:31.746583+00:00"}
+{"type": "tick", "counter": 65, "symbol": "BTCUSDT", "mode": "paper", "price": 68892.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:31.746744+00:00"}
+{"type": "strategy_state", "ema_fast": 68894.53116521514, "ema_slow": 68897.95583756236, "signal": null, "ts": "2026-02-13T22:46:31.746780+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68886.23, "ts": "2026-02-13T22:46:32.047922+00:00"}
+{"type": "tick", "counter": 66, "symbol": "BTCUSDT", "mode": "paper", "price": 68886.23, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:32.048093+00:00"}
+{"type": "strategy_state", "ema_fast": 68893.25406287434, "ema_slow": 68897.08725700219, "signal": null, "ts": "2026-02-13T22:46:32.048159+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68886.23, "ts": "2026-02-13T22:46:32.357457+00:00"}
+{"type": "tick", "counter": 67, "symbol": "BTCUSDT", "mode": "paper", "price": 68886.23, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:32.357727+00:00"}
+{"type": "strategy_state", "ema_fast": 68892.17343781675, "ema_slow": 68896.28301574277, "signal": null, "ts": "2026-02-13T22:46:32.357780+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68880.0, "ts": "2026-02-13T22:46:32.667352+00:00"}
+{"type": "tick", "counter": 68, "symbol": "BTCUSDT", "mode": "paper", "price": 68880.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:32.667637+00:00"}
+{"type": "strategy_state", "ema_fast": 68890.30060122955, "ema_slow": 68895.07686642848, "signal": null, "ts": "2026-02-13T22:46:32.667701+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68880.0, "ts": "2026-02-13T22:46:32.977968+00:00"}
+{"type": "tick", "counter": 69, "symbol": "BTCUSDT", "mode": "paper", "price": 68880.0, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:32.978194+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.71589334808, "ema_slow": 68893.96006150785, "signal": null, "ts": "2026-02-13T22:46:32.978233+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:33.298459+00:00"}
+{"type": "tick", "counter": 70, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:33.298626+00:00"}
+{"type": "strategy_state", "ema_fast": 68886.77190975608, "ema_slow": 68892.63561250728, "signal": null, "ts": "2026-02-13T22:46:33.298659+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.07, "ts": "2026-02-13T22:46:33.603654+00:00"}
+{"type": "tick", "counter": 71, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.07, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:33.603920+00:00"}
+{"type": "strategy_state", "ema_fast": 68885.12546210129, "ema_slow": 68891.40853009933, "signal": null, "ts": "2026-02-13T22:46:33.603959+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.07, "ts": "2026-02-13T22:46:33.913995+00:00"}
+{"type": "tick", "counter": 72, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.07, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:33.914192+00:00"}
+{"type": "strategy_state", "ema_fast": 68883.7323140857, "ema_slow": 68890.27234268456, "signal": null, "ts": "2026-02-13T22:46:33.914231+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.07, "ts": "2026-02-13T22:46:34.220242+00:00"}
+{"type": "tick", "counter": 73, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.07, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:34.220450+00:00"}
+{"type": "strategy_state", "ema_fast": 68882.55349653406, "ema_slow": 68889.22031730053, "signal": null, "ts": "2026-02-13T22:46:34.220501+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:34.540827+00:00"}
+{"type": "tick", "counter": 74, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-13T22:46:34.541119+00:00"}
+{"type": "strategy_state", "ema_fast": 68881.55757399036, "ema_slow": 68888.24696046345, "signal": null, "ts": "2026-02-13T22:46:34.541182+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 68904.65, "exit_price": 68876.08, "size": 0.0014512808642087292, "stop_price": 68215.6035, "pnl": -0.04146309429043241, "equity_after": 99.95853690570956, "daily_pnl": -0.041463094290435265, "reason": "time_exit", "ts": "2026-02-13T22:46:34.541223+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:34.862933+00:00"}
+{"type": "tick", "counter": 75, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:34.863034+00:00"}
+{"type": "strategy_state", "ema_fast": 68880.71487029953, "ema_slow": 68887.34570413282, "signal": null, "ts": "2026-02-13T22:46:34.863066+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:35.226932+00:00"}
+{"type": "tick", "counter": 76, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:35.227200+00:00"}
+{"type": "strategy_state", "ema_fast": 68880.00181333037, "ema_slow": 68886.51120753039, "signal": null, "ts": "2026-02-13T22:46:35.227240+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:35.531924+00:00"}
+{"type": "tick", "counter": 77, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:35.532223+00:00"}
+{"type": "strategy_state", "ema_fast": 68879.39845743339, "ema_slow": 68885.7385254911, "signal": null, "ts": "2026-02-13T22:46:35.532270+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:35.837658+00:00"}
+{"type": "tick", "counter": 78, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:35.838035+00:00"}
+{"type": "strategy_state", "ema_fast": 68878.88792552055, "ema_slow": 68885.02307915843, "signal": null, "ts": "2026-02-13T22:46:35.838103+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:36.147166+00:00"}
+{"type": "tick", "counter": 79, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:36.147381+00:00"}
+{"type": "strategy_state", "ema_fast": 68878.45593697893, "ema_slow": 68884.3606288504, "signal": null, "ts": "2026-02-13T22:46:36.147436+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:36.463370+00:00"}
+{"type": "tick", "counter": 80, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:36.463700+00:00"}
+{"type": "strategy_state", "ema_fast": 68878.09040821294, "ema_slow": 68883.74724893556, "signal": null, "ts": "2026-02-13T22:46:36.463756+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:36.772611+00:00"}
+{"type": "tick", "counter": 81, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:36.772872+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.78111464172, "ema_slow": 68883.17930456996, "signal": null, "ts": "2026-02-13T22:46:36.772912+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:37.077361+00:00"}
+{"type": "tick", "counter": 82, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:37.077622+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.51940469684, "ema_slow": 68882.65343015737, "signal": null, "ts": "2026-02-13T22:46:37.077660+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:37.385384+00:00"}
+{"type": "tick", "counter": 83, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:37.385526+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.2979578204, "ema_slow": 68882.16650940497, "signal": null, "ts": "2026-02-13T22:46:37.385560+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.08, "ts": "2026-02-13T22:46:37.691554+00:00"}
+{"type": "tick", "counter": 84, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.08, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:37.691801+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.11057969418, "ema_slow": 68881.71565685645, "signal": null, "ts": "2026-02-13T22:46:37.691841+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.07, "ts": "2026-02-13T22:46:38.003466+00:00"}
+{"type": "tick", "counter": 85, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.07, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:38.003718+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.95049051047, "ema_slow": 68881.29746005227, "signal": null, "ts": "2026-02-13T22:46:38.003767+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68874.42, "ts": "2026-02-13T22:46:38.316648+00:00"}
+{"type": "tick", "counter": 86, "symbol": "BTCUSDT", "mode": "paper", "price": 68874.42, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:38.316959+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.56118427809, "ema_slow": 68880.78801856692, "signal": null, "ts": "2026-02-13T22:46:38.317043+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68874.42, "ts": "2026-02-13T22:46:38.633533+00:00"}
+{"type": "tick", "counter": 87, "symbol": "BTCUSDT", "mode": "paper", "price": 68874.42, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:38.633645+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.23177131223, "ema_slow": 68880.31631348789, "signal": null, "ts": "2026-02-13T22:46:38.633687+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68874.42, "ts": "2026-02-13T22:46:38.949572+00:00"}
+{"type": "tick", "counter": 88, "symbol": "BTCUSDT", "mode": "paper", "price": 68874.42, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:38.949853+00:00"}
+{"type": "strategy_state", "ema_fast": 68875.95303726419, "ema_slow": 68879.87954952582, "signal": null, "ts": "2026-02-13T22:46:38.949906+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.52, "ts": "2026-02-13T22:46:39.258585+00:00"}
+{"type": "tick", "counter": 89, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.52, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:39.258936+00:00"}
+{"type": "strategy_state", "ema_fast": 68874.96333922354, "ema_slow": 68879.11217548688, "signal": null, "ts": "2026-02-13T22:46:39.258992+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.52, "ts": "2026-02-13T22:46:39.580569+00:00"}
+{"type": "tick", "counter": 90, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.52, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:39.580927+00:00"}
+{"type": "strategy_state", "ema_fast": 68874.12590241992, "ema_slow": 68878.40164396934, "signal": null, "ts": "2026-02-13T22:46:39.580995+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.52, "ts": "2026-02-13T22:46:39.910593+00:00"}
+{"type": "tick", "counter": 91, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.52, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:39.910742+00:00"}
+{"type": "strategy_state", "ema_fast": 68873.41730204763, "ema_slow": 68877.74374441605, "signal": null, "ts": "2026-02-13T22:46:39.910802+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.52, "ts": "2026-02-13T22:46:40.221879+00:00"}
+{"type": "tick", "counter": 92, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.52, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:40.222050+00:00"}
+{"type": "strategy_state", "ema_fast": 68872.81771711723, "ema_slow": 68877.13457816301, "signal": null, "ts": "2026-02-13T22:46:40.222127+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.53, "ts": "2026-02-13T22:46:40.540247+00:00"}
+{"type": "tick", "counter": 93, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.53, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:40.540356+00:00"}
+{"type": "strategy_state", "ema_fast": 68872.31191448381, "ema_slow": 68876.57127607687, "signal": null, "ts": "2026-02-13T22:46:40.540390+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.53, "ts": "2026-02-13T22:46:40.845589+00:00"}
+{"type": "tick", "counter": 94, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.53, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:40.845742+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.88392764016, "ema_slow": 68876.04970007118, "signal": null, "ts": "2026-02-13T22:46:40.845777+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.53, "ts": "2026-02-13T22:46:41.156866+00:00"}
+{"type": "tick", "counter": 95, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.53, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:41.157156+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.52178492628, "ema_slow": 68875.56675932516, "signal": null, "ts": "2026-02-13T22:46:41.157222+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68869.53, "ts": "2026-02-13T22:46:41.474321+00:00"}
+{"type": "tick", "counter": 96, "symbol": "BTCUSDT", "mode": "paper", "price": 68869.53, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:41.474618+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.21535647608, "ema_slow": 68875.11959196774, "signal": null, "ts": "2026-02-13T22:46:41.474678+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:41.789039+00:00"}
+{"type": "tick", "counter": 97, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:41.789284+00:00"}
+{"type": "strategy_state", "ema_fast": 68874.0529939413, "ema_slow": 68876.19665922939, "signal": null, "ts": "2026-02-13T22:46:41.789348+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:42.107377+00:00"}
+{"type": "tick", "counter": 98, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:42.107560+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.45561025802, "ema_slow": 68877.19468447166, "signal": null, "ts": "2026-02-13T22:46:42.107609+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:42.415887+00:00"}
+{"type": "tick", "counter": 99, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 1, "has_position": false, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:42.416221+00:00"}
+{"type": "strategy_state", "ema_fast": 68878.48859329525, "ema_slow": 68878.11878191821, "signal": "long", "ts": "2026-02-13T22:46:42.416288+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 68889.67, "size": 0.001450994567192869, "stop_price": 68200.7733, "equity_before": 99.95853690570956, "risk_pct": 0.01, "risk_amount": 0.9995853690570957, "reason": "ema_cross_long", "ts": "2026-02-13T22:46:42.416347+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:42.730475+00:00"}
+{"type": "tick", "counter": 100, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:42.730687+00:00"}
+{"type": "strategy_state", "ema_fast": 68880.20880971136, "ema_slow": 68878.97442770205, "signal": null, "ts": "2026-02-13T22:46:42.730746+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:44.065297+00:00"}
+{"type": "tick", "counter": 101, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:44.065478+00:00"}
+{"type": "strategy_state", "ema_fast": 68881.66283898654, "ema_slow": 68879.76595157597, "signal": null, "ts": "2026-02-13T22:46:44.065547+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:44.382149+00:00"}
+{"type": "tick", "counter": 102, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:44.382378+00:00"}
+{"type": "strategy_state", "ema_fast": 68882.89317145015, "ema_slow": 68880.49884405182, "signal": null, "ts": "2026-02-13T22:46:44.382419+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:44.732773+00:00"}
+{"type": "tick", "counter": 103, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:44.733036+00:00"}
+{"type": "strategy_state", "ema_fast": 68883.93422199629, "ema_slow": 68881.17744819613, "signal": null, "ts": "2026-02-13T22:46:44.733102+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:45.133141+00:00"}
+{"type": "tick", "counter": 104, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:45.133622+00:00"}
+{"type": "strategy_state", "ema_fast": 68884.81511091994, "ema_slow": 68881.80578536679, "signal": null, "ts": "2026-02-13T22:46:45.133700+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:45.479440+00:00"}
+{"type": "tick", "counter": 105, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:45.479807+00:00"}
+{"type": "strategy_state", "ema_fast": 68885.56201693225, "ema_slow": 68882.38831978406, "signal": null, "ts": "2026-02-13T22:46:45.479877+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:46.005397+00:00"}
+{"type": "tick", "counter": 106, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:46.005714+00:00"}
+{"type": "strategy_state", "ema_fast": 68886.1940143273, "ema_slow": 68882.92770350377, "signal": null, "ts": "2026-02-13T22:46:46.005791+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:46.404972+00:00"}
+{"type": "tick", "counter": 107, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:46.405284+00:00"}
+{"type": "strategy_state", "ema_fast": 68886.72724289233, "ema_slow": 68883.42639213311, "signal": null, "ts": "2026-02-13T22:46:46.405350+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:46.760491+00:00"}
+{"type": "tick", "counter": 108, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:46.760769+00:00"}
+{"type": "strategy_state", "ema_fast": 68887.17843629351, "ema_slow": 68883.888140864, "signal": null, "ts": "2026-02-13T22:46:46.760809+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:47.131210+00:00"}
+{"type": "tick", "counter": 109, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:47.131325+00:00"}
+{"type": "strategy_state", "ema_fast": 68887.56175378682, "ema_slow": 68884.31642672593, "signal": null, "ts": "2026-02-13T22:46:47.131360+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:47.458328+00:00"}
+{"type": "tick", "counter": 110, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:47.458630+00:00"}
+{"type": "strategy_state", "ema_fast": 68887.88609935807, "ema_slow": 68884.7129877092, "signal": null, "ts": "2026-02-13T22:46:47.458712+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:47.769684+00:00"}
+{"type": "tick", "counter": 111, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:47.770168+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.16054561068, "ema_slow": 68885.0801738048, "signal": null, "ts": "2026-02-13T22:46:47.770248+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:48.086195+00:00"}
+{"type": "tick", "counter": 112, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:48.086413+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.39123090134, "ema_slow": 68885.41942018963, "signal": null, "ts": "2026-02-13T22:46:48.086468+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:48.398436+00:00"}
+{"type": "tick", "counter": 113, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:48.398767+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.58642614729, "ema_slow": 68885.73353721263, "signal": null, "ts": "2026-02-13T22:46:48.398810+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:48.726383+00:00"}
+{"type": "tick", "counter": 114, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:48.726692+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.7515913554, "ema_slow": 68886.02438630798, "signal": null, "ts": "2026-02-13T22:46:48.726750+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:49.050146+00:00"}
+{"type": "tick", "counter": 115, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:49.050419+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.89134653148, "ema_slow": 68886.29369102592, "signal": null, "ts": "2026-02-13T22:46:49.050465+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:49.397380+00:00"}
+{"type": "tick", "counter": 116, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:49.397674+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.00960091126, "ema_slow": 68886.54304724622, "signal": null, "ts": "2026-02-13T22:46:49.397729+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:49.717463+00:00"}
+{"type": "tick", "counter": 117, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:49.717747+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.10966230952, "ema_slow": 68886.77393263539, "signal": null, "ts": "2026-02-13T22:46:49.717815+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:50.037347+00:00"}
+{"type": "tick", "counter": 118, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:50.037657+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.19432964652, "ema_slow": 68886.98771540314, "signal": null, "ts": "2026-02-13T22:46:50.037717+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.67, "ts": "2026-02-13T22:46:50.352474+00:00"}
+{"type": "tick", "counter": 119, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.67, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:50.352767+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.2675097009, "ema_slow": 68887.18640315106, "signal": null, "ts": "2026-02-13T22:46:50.352832+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:50.669920+00:00"}
+{"type": "tick", "counter": 120, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:50.670218+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.32789282384, "ema_slow": 68887.36963254728, "signal": null, "ts": "2026-02-13T22:46:50.670278+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:50.980658+00:00"}
+{"type": "tick", "counter": 121, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:50.980961+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.37898623556, "ema_slow": 68887.53928939563, "signal": null, "ts": "2026-02-13T22:46:50.981021+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:51.290361+00:00"}
+{"type": "tick", "counter": 122, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:51.290682+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.4222191224, "ema_slow": 68887.69637907002, "signal": null, "ts": "2026-02-13T22:46:51.290750+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:51.607835+00:00"}
+{"type": "tick", "counter": 123, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:51.608124+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.45880079588, "ema_slow": 68887.84183247224, "signal": null, "ts": "2026-02-13T22:46:51.608183+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:51.931810+00:00"}
+{"type": "tick", "counter": 124, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:51.932105+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.48975451959, "ema_slow": 68887.97651154838, "signal": null, "ts": "2026-02-13T22:46:51.932156+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:52.253950+00:00"}
+{"type": "tick", "counter": 125, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:52.254333+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.51594613196, "ema_slow": 68888.10121439665, "signal": null, "ts": "2026-02-13T22:46:52.254396+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:52.576532+00:00"}
+{"type": "tick", "counter": 126, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:52.576799+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.53810826551, "ema_slow": 68888.2166799969, "signal": null, "ts": "2026-02-13T22:46:52.576846+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:52.875511+00:00"}
+{"type": "tick", "counter": 127, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:52.875743+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.55686084005, "ema_slow": 68888.32359258972, "signal": null, "ts": "2026-02-13T22:46:52.875806+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:53.176842+00:00"}
+{"type": "tick", "counter": 128, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:53.177138+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.57272840312, "ema_slow": 68888.42258573123, "signal": null, "ts": "2026-02-13T22:46:53.177191+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:53.520305+00:00"}
+{"type": "tick", "counter": 129, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:53.520708+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.58615480264, "ema_slow": 68888.51424604743, "signal": null, "ts": "2026-02-13T22:46:53.520776+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:53.840892+00:00"}
+{"type": "tick", "counter": 130, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:53.841034+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.59751560223, "ema_slow": 68888.59911671058, "signal": null, "ts": "2026-02-13T22:46:53.841083+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:54.147964+00:00"}
+{"type": "tick", "counter": 131, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:54.148206+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.6071285865, "ema_slow": 68888.67770065795, "signal": null, "ts": "2026-02-13T22:46:54.148249+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:54.459954+00:00"}
+{"type": "tick", "counter": 132, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:54.460265+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.61526265011, "ema_slow": 68888.75046357217, "signal": null, "ts": "2026-02-13T22:46:54.460324+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:54.767630+00:00"}
+{"type": "tick", "counter": 133, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:54.767918+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.62214531933, "ema_slow": 68888.8178366409, "signal": null, "ts": "2026-02-13T22:46:54.767982+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:55.079068+00:00"}
+{"type": "tick", "counter": 134, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:55.079262+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.62796911635, "ema_slow": 68888.88021911195, "signal": null, "ts": "2026-02-13T22:46:55.079315+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:55.393469+00:00"}
+{"type": "tick", "counter": 135, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:55.393773+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.6328969446, "ema_slow": 68888.9379806592, "signal": null, "ts": "2026-02-13T22:46:55.393850+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:55.718596+00:00"}
+{"type": "tick", "counter": 136, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:55.718877+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.63706664543, "ema_slow": 68888.99146357334, "signal": null, "ts": "2026-02-13T22:46:55.718946+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:56.031650+00:00"}
+{"type": "tick", "counter": 137, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:56.031990+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.64059485383, "ema_slow": 68889.04098479013, "signal": null, "ts": "2026-02-13T22:46:56.032030+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68889.66, "ts": "2026-02-13T22:46:56.341191+00:00"}
+{"type": "tick", "counter": 138, "symbol": "BTCUSDT", "mode": "paper", "price": 68889.66, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:56.341414+00:00"}
+{"type": "strategy_state", "ema_fast": 68889.64358026093, "ema_slow": 68889.08683776864, "signal": null, "ts": "2026-02-13T22:46:56.341449+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68883.28, "ts": "2026-02-13T22:46:56.656107+00:00"}
+{"type": "tick", "counter": 139, "symbol": "BTCUSDT", "mode": "paper", "price": 68883.28, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:56.656438+00:00"}
+{"type": "strategy_state", "ema_fast": 68888.6645679131, "ema_slow": 68888.65670163764, "signal": null, "ts": "2026-02-13T22:46:56.656509+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68881.99, "ts": "2026-02-13T22:46:56.966326+00:00"}
+{"type": "tick", "counter": 140, "symbol": "BTCUSDT", "mode": "paper", "price": 68881.99, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:56.966643+00:00"}
+{"type": "strategy_state", "ema_fast": 68887.6377113111, "ema_slow": 68888.1628718867, "signal": "short", "ts": "2026-02-13T22:46:56.966701+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68881.78, "ts": "2026-02-13T22:46:57.279215+00:00"}
+{"type": "tick", "counter": 141, "symbol": "BTCUSDT", "mode": "paper", "price": 68881.78, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:57.279397+00:00"}
+{"type": "strategy_state", "ema_fast": 68886.73652495554, "ema_slow": 68887.69006656176, "signal": null, "ts": "2026-02-13T22:46:57.279464+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68864.0, "ts": "2026-02-13T22:46:57.589343+00:00"}
+{"type": "tick", "counter": 142, "symbol": "BTCUSDT", "mode": "paper", "price": 68864.0, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:57.589460+00:00"}
+{"type": "strategy_state", "ema_fast": 68883.2385980393, "ema_slow": 68885.93524681644, "signal": null, "ts": "2026-02-13T22:46:57.589516+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68864.01, "ts": "2026-02-13T22:46:57.904604+00:00"}
+{"type": "tick", "counter": 143, "symbol": "BTCUSDT", "mode": "paper", "price": 68864.01, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:57.904905+00:00"}
+{"type": "strategy_state", "ema_fast": 68880.2803521871, "ema_slow": 68884.31115445968, "signal": null, "ts": "2026-02-13T22:46:57.904969+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:46:58.223496+00:00"}
+{"type": "tick", "counter": 144, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:58.223710+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.20799031216, "ema_slow": 68882.53329116637, "signal": null, "ts": "2026-02-13T22:46:58.223761+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:46:58.536447+00:00"}
+{"type": "tick", "counter": 145, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:58.536742+00:00"}
+{"type": "strategy_state", "ema_fast": 68874.60676103337, "ema_slow": 68880.8863807096, "signal": null, "ts": "2026-02-13T22:46:58.536781+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:46:58.842196+00:00"}
+{"type": "tick", "counter": 146, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:58.842484+00:00"}
+{"type": "strategy_state", "ema_fast": 68872.40572087439, "ema_slow": 68879.36146362, "signal": null, "ts": "2026-02-13T22:46:58.842544+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:46:59.145632+00:00"}
+{"type": "tick", "counter": 147, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:59.145829+00:00"}
+{"type": "strategy_state", "ema_fast": 68870.54330227833, "ema_slow": 68877.94950335186, "signal": null, "ts": "2026-02-13T22:46:59.145890+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:46:59.926210+00:00"}
+{"type": "tick", "counter": 148, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:46:59.926520+00:00"}
+{"type": "strategy_state", "ema_fast": 68868.96740962012, "ema_slow": 68876.6421327332, "signal": null, "ts": "2026-02-13T22:46:59.926580+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:00.234481+00:00"}
+{"type": "tick", "counter": 149, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:00.234624+00:00"}
+{"type": "strategy_state", "ema_fast": 68867.63396198626, "ema_slow": 68875.4316043826, "signal": null, "ts": "2026-02-13T22:47:00.234664+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:00.546227+00:00"}
+{"type": "tick", "counter": 150, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:00.546367+00:00"}
+{"type": "strategy_state", "ema_fast": 68866.50566014221, "ema_slow": 68874.3107447987, "signal": null, "ts": "2026-02-13T22:47:00.546423+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:00.863315+00:00"}
+{"type": "tick", "counter": 151, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:00.863674+00:00"}
+{"type": "strategy_state", "ema_fast": 68865.55094319726, "ema_slow": 68873.27291185065, "signal": null, "ts": "2026-02-13T22:47:00.863735+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:01.175460+00:00"}
+{"type": "tick", "counter": 152, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:01.175833+00:00"}
+{"type": "strategy_state", "ema_fast": 68864.7431057823, "ema_slow": 68872.31195541727, "signal": null, "ts": "2026-02-13T22:47:01.175897+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:01.548198+00:00"}
+{"type": "tick", "counter": 153, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:01.548319+00:00"}
+{"type": "strategy_state", "ema_fast": 68864.0610895081, "ema_slow": 68871.42292168266, "signal": null, "ts": "2026-02-13T22:47:01.548376+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:01.865500+00:00"}
+{"type": "tick", "counter": 154, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:01.865785+00:00"}
+{"type": "strategy_state", "ema_fast": 68863.48399881455, "ema_slow": 68870.59974229876, "signal": null, "ts": "2026-02-13T22:47:01.865856+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:02.163876+00:00"}
+{"type": "tick", "counter": 155, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:02.164109+00:00"}
+{"type": "strategy_state", "ema_fast": 68862.99569130462, "ema_slow": 68869.83753916551, "signal": null, "ts": "2026-02-13T22:47:02.164147+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:02.475151+00:00"}
+{"type": "tick", "counter": 156, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:02.475600+00:00"}
+{"type": "strategy_state", "ema_fast": 68862.58096956545, "ema_slow": 68869.13105478288, "signal": null, "ts": "2026-02-13T22:47:02.475654+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:02.779777+00:00"}
+{"type": "tick", "counter": 157, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:02.779943+00:00"}
+{"type": "strategy_state", "ema_fast": 68862.23005117076, "ema_slow": 68868.47690257673, "signal": null, "ts": "2026-02-13T22:47:02.779994+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:03.085220+00:00"}
+{"type": "tick", "counter": 158, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": true, "equity": 99.95853690570956, "daily_pnl": -0.041463094290435265, "ts": "2026-02-13T22:47:03.085420+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.93465868295, "ema_slow": 68867.8719468303, "signal": null, "ts": "2026-02-13T22:47:03.085470+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 68889.67, "exit_price": 68860.31, "size": 0.001450994567192869, "stop_price": 68200.7733, "pnl": -0.04260120049278348, "equity_after": 99.91593570521678, "daily_pnl": -0.08406429478321797, "reason": "time_exit", "ts": "2026-02-13T22:47:03.085507+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:03.392777+00:00"}
+{"type": "tick", "counter": 159, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:03.393050+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.68471119326, "ema_slow": 68867.31180262065, "signal": null, "ts": "2026-02-13T22:47:03.393095+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:03.702111+00:00"}
+{"type": "tick", "counter": 160, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:03.702278+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.47321716353, "ema_slow": 68866.79315057468, "signal": null, "ts": "2026-02-13T22:47:03.702339+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:04.011963+00:00"}
+{"type": "tick", "counter": 161, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:04.012260+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.29426067683, "ema_slow": 68866.31291719878, "signal": null, "ts": "2026-02-13T22:47:04.012317+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:04.323283+00:00"}
+{"type": "tick", "counter": 162, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:04.323494+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.14283595732, "ema_slow": 68865.86825666553, "signal": null, "ts": "2026-02-13T22:47:04.323531+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:04.636689+00:00"}
+{"type": "tick", "counter": 163, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:04.636906+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.0147073485, "ema_slow": 68865.45653394957, "signal": null, "ts": "2026-02-13T22:47:04.637090+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:04.944753+00:00"}
+{"type": "tick", "counter": 164, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:04.945030+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.90629083334, "ema_slow": 68865.07530921257, "signal": null, "ts": "2026-02-13T22:47:04.945108+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:05.258585+00:00"}
+{"type": "tick", "counter": 165, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:05.258808+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.81455378205, "ema_slow": 68864.72232334496, "signal": null, "ts": "2026-02-13T22:47:05.258853+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:05.565991+00:00"}
+{"type": "tick", "counter": 166, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:05.566250+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.73693012327, "ema_slow": 68864.39548457866, "signal": null, "ts": "2026-02-13T22:47:05.566310+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:05.881287+00:00"}
+{"type": "tick", "counter": 167, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:05.881577+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.67124856584, "ema_slow": 68864.09285609136, "signal": null, "ts": "2026-02-13T22:47:05.881645+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:06.194289+00:00"}
+{"type": "tick", "counter": 168, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:06.194605+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.6156718634, "ema_slow": 68863.81264452904, "signal": null, "ts": "2026-02-13T22:47:06.194664+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:06.569732+00:00"}
+{"type": "tick", "counter": 169, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:06.570110+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.56864542287, "ema_slow": 68863.55318937874, "signal": null, "ts": "2026-02-13T22:47:06.570175+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:06.888012+00:00"}
+{"type": "tick", "counter": 170, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:06.888305+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.52885381936, "ema_slow": 68863.31295312846, "signal": null, "ts": "2026-02-13T22:47:06.888351+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:07.197862+00:00"}
+{"type": "tick", "counter": 171, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:07.198062+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.49518400099, "ema_slow": 68863.09051215599, "signal": null, "ts": "2026-02-13T22:47:07.198132+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:07.502806+00:00"}
+{"type": "tick", "counter": 172, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:07.502935+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.46669415469, "ema_slow": 68862.88454829258, "signal": null, "ts": "2026-02-13T22:47:07.502976+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:07.814758+00:00"}
+{"type": "tick", "counter": 173, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:07.815081+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.44258736166, "ema_slow": 68862.69384101166, "signal": null, "ts": "2026-02-13T22:47:07.815144+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:08.132949+00:00"}
+{"type": "tick", "counter": 174, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:08.133214+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.42065084448, "ema_slow": 68862.51651945524, "signal": null, "ts": "2026-02-13T22:47:08.133263+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:08.445644+00:00"}
+{"type": "tick", "counter": 175, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:08.445774+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.40362763763, "ema_slow": 68862.35307356967, "signal": null, "ts": "2026-02-13T22:47:08.445831+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:08.760771+00:00"}
+{"type": "tick", "counter": 176, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:08.761001+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.38922338569, "ema_slow": 68862.20173478674, "signal": null, "ts": "2026-02-13T22:47:08.761040+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:09.059960+00:00"}
+{"type": "tick", "counter": 177, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:09.060306+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.37703517251, "ema_slow": 68862.06160628401, "signal": null, "ts": "2026-02-13T22:47:09.060386+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:09.383360+00:00"}
+{"type": "tick", "counter": 178, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:09.383489+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.36518360752, "ema_slow": 68861.93111692964, "signal": null, "ts": "2026-02-13T22:47:09.383525+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:09.695111+00:00"}
+{"type": "tick", "counter": 179, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:09.695421+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.3551553602, "ema_slow": 68861.81029345337, "signal": null, "ts": "2026-02-13T22:47:09.695473+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:10.018241+00:00"}
+{"type": "tick", "counter": 180, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:10.018452+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.34666992017, "ema_slow": 68861.69841986423, "signal": null, "ts": "2026-02-13T22:47:10.018488+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:10.377283+00:00"}
+{"type": "tick", "counter": 181, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:10.377521+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.33948993245, "ema_slow": 68861.59483320762, "signal": null, "ts": "2026-02-13T22:47:10.377570+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:10.686968+00:00"}
+{"type": "tick", "counter": 182, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:10.687228+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.33341455822, "ema_slow": 68861.49891963668, "signal": null, "ts": "2026-02-13T22:47:10.687271+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:11.004122+00:00"}
+{"type": "tick", "counter": 183, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:11.004276+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.32827385695, "ema_slow": 68861.4101107747, "signal": null, "ts": "2026-02-13T22:47:11.004313+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.31, "ts": "2026-02-13T22:47:11.359142+00:00"}
+{"type": "tick", "counter": 184, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.31, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:11.359314+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.32546249435, "ema_slow": 68861.32862108768, "signal": null, "ts": "2026-02-13T22:47:11.359356+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.32, "ts": "2026-02-13T22:47:11.696759+00:00"}
+{"type": "tick", "counter": 185, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.32, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:11.697099+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.32462211061, "ema_slow": 68861.25390841452, "signal": null, "ts": "2026-02-13T22:47:11.697170+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.32, "ts": "2026-02-13T22:47:12.008618+00:00"}
+{"type": "tick", "counter": 186, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.32, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:12.008869+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.32391101668, "ema_slow": 68861.18473001345, "signal": null, "ts": "2026-02-13T22:47:12.008925+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68862.8, "ts": "2026-02-13T22:47:12.315594+00:00"}
+{"type": "tick", "counter": 187, "symbol": "BTCUSDT", "mode": "paper", "price": 68862.8, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:12.315831+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.70484778335, "ema_slow": 68861.30437964208, "signal": null, "ts": "2026-02-13T22:47:12.315869+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68865.14, "ts": "2026-02-13T22:47:12.621690+00:00"}
+{"type": "tick", "counter": 188, "symbol": "BTCUSDT", "mode": "paper", "price": 68865.14, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:12.621854+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.3871788936, "ema_slow": 68861.58849966859, "signal": null, "ts": "2026-02-13T22:47:12.621923+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68865.14, "ts": "2026-02-13T22:47:12.937358+00:00"}
+{"type": "tick", "counter": 189, "symbol": "BTCUSDT", "mode": "paper", "price": 68865.14, "trades_today": 2, "has_position": false, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:12.937615+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.96453598689, "ema_slow": 68861.85157376721, "signal": "long", "ts": "2026-02-13T22:47:12.937658+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 68865.14, "size": 0.0014508927986673198, "stop_price": 68176.4886, "equity_before": 99.91593570521678, "risk_pct": 0.01, "risk_amount": 0.9991593570521679, "reason": "ema_cross_long", "ts": "2026-02-13T22:47:12.937687+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68873.85, "ts": "2026-02-13T22:47:18.255937+00:00"}
+{"type": "tick", "counter": 190, "symbol": "BTCUSDT", "mode": "paper", "price": 68873.85, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:18.260863+00:00"}
+{"type": "strategy_state", "ema_fast": 68863.79306891198, "ema_slow": 68862.74034608075, "signal": null, "ts": "2026-02-13T22:47:18.260951+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68884.0, "ts": "2026-02-13T22:47:23.596635+00:00"}
+{"type": "tick", "counter": 191, "symbol": "BTCUSDT", "mode": "paper", "price": 68884.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:23.596792+00:00"}
+{"type": "strategy_state", "ema_fast": 68866.9018275409, "ema_slow": 68864.31513525995, "signal": null, "ts": "2026-02-13T22:47:23.599028+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68897.71, "ts": "2026-02-13T22:47:28.948104+00:00"}
+{"type": "tick", "counter": 192, "symbol": "BTCUSDT", "mode": "paper", "price": 68897.71, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:28.948322+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.64154638076, "ema_slow": 68866.7888289444, "signal": null, "ts": "2026-02-13T22:47:28.948460+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68900.0, "ts": "2026-02-13T22:47:34.262520+00:00"}
+{"type": "tick", "counter": 193, "symbol": "BTCUSDT", "mode": "paper", "price": 68900.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:34.262885+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.00438539911, "ema_slow": 68869.24891568926, "signal": null, "ts": "2026-02-13T22:47:34.264677+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68878.0, "ts": "2026-02-13T22:47:39.586357+00:00"}
+{"type": "tick", "counter": 194, "symbol": "BTCUSDT", "mode": "paper", "price": 68878.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:39.586524+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.31140303002, "ema_slow": 68869.89714415671, "signal": null, "ts": "2026-02-13T22:47:39.586580+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68865.17, "ts": "2026-02-13T22:47:44.900226+00:00"}
+{"type": "tick", "counter": 195, "symbol": "BTCUSDT", "mode": "paper", "price": 68865.17, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:44.900731+00:00"}
+{"type": "strategy_state", "ema_fast": 68874.59734102541, "ema_slow": 68869.5469853303, "signal": null, "ts": "2026-02-13T22:47:44.900830+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:50.243303+00:00"}
+{"type": "tick", "counter": 196, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:50.243676+00:00"}
+{"type": "strategy_state", "ema_fast": 68872.39775009842, "ema_slow": 68868.86202345397, "signal": null, "ts": "2026-02-13T22:47:50.248679+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:47:55.564716+00:00"}
+{"type": "tick", "counter": 197, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:47:55.565029+00:00"}
+{"type": "strategy_state", "ema_fast": 68870.53655777559, "ema_slow": 68868.22779949442, "signal": null, "ts": "2026-02-13T22:47:55.566826+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68860.3, "ts": "2026-02-13T22:48:00.894212+00:00"}
+{"type": "tick", "counter": 198, "symbol": "BTCUSDT", "mode": "paper", "price": 68860.3, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:00.894416+00:00"}
+{"type": "strategy_state", "ema_fast": 68868.96170273318, "ema_slow": 68867.64055508742, "signal": null, "ts": "2026-02-13T22:48:00.894537+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68858.95, "ts": "2026-02-13T22:48:06.237588+00:00"}
+{"type": "tick", "counter": 199, "symbol": "BTCUSDT", "mode": "paper", "price": 68858.95, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:06.237819+00:00"}
+{"type": "strategy_state", "ema_fast": 68867.42144077423, "ema_slow": 68866.99681026612, "signal": null, "ts": "2026-02-13T22:48:06.238217+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68856.0, "ts": "2026-02-13T22:48:13.041656+00:00"}
+{"type": "tick", "counter": 200, "symbol": "BTCUSDT", "mode": "paper", "price": 68856.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:13.042028+00:00"}
+{"type": "strategy_state", "ema_fast": 68865.66429603973, "ema_slow": 68866.18223172789, "signal": "short", "ts": "2026-02-13T22:48:13.042113+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68856.0, "ts": "2026-02-13T22:48:18.351607+00:00"}
+{"type": "tick", "counter": 201, "symbol": "BTCUSDT", "mode": "paper", "price": 68856.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:18.351846+00:00"}
+{"type": "strategy_state", "ema_fast": 68864.17748126439, "ema_slow": 68865.42799234063, "signal": null, "ts": "2026-02-13T22:48:18.353630+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68855.5, "ts": "2026-02-13T22:48:23.680239+00:00"}
+{"type": "tick", "counter": 202, "symbol": "BTCUSDT", "mode": "paper", "price": 68855.5, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:23.680619+00:00"}
+{"type": "strategy_state", "ema_fast": 68862.8424841468, "ema_slow": 68864.69258550058, "signal": null, "ts": "2026-02-13T22:48:23.680671+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68854.6, "ts": "2026-02-13T22:48:28.979940+00:00"}
+{"type": "tick", "counter": 203, "symbol": "BTCUSDT", "mode": "paper", "price": 68854.6, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:28.980285+00:00"}
+{"type": "strategy_state", "ema_fast": 68861.57440966267, "ema_slow": 68863.94498657461, "signal": null, "ts": "2026-02-13T22:48:28.982151+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68854.59, "ts": "2026-02-13T22:48:34.316596+00:00"}
+{"type": "tick", "counter": 204, "symbol": "BTCUSDT", "mode": "paper", "price": 68854.59, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:34.316951+00:00"}
+{"type": "strategy_state", "ema_fast": 68860.49988509918, "ema_slow": 68863.25202460612, "signal": null, "ts": "2026-02-13T22:48:34.318866+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68854.6, "ts": "2026-02-13T22:48:39.641752+00:00"}
+{"type": "tick", "counter": 205, "symbol": "BTCUSDT", "mode": "paper", "price": 68854.6, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:39.642091+00:00"}
+{"type": "strategy_state", "ema_fast": 68859.59221046855, "ema_slow": 68862.61113389455, "signal": null, "ts": "2026-02-13T22:48:39.643937+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68876.35, "ts": "2026-02-13T22:48:44.954844+00:00"}
+{"type": "tick", "counter": 206, "symbol": "BTCUSDT", "mode": "paper", "price": 68876.35, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:44.955106+00:00"}
+{"type": "strategy_state", "ema_fast": 68862.17033193492, "ema_slow": 68863.62882768014, "signal": null, "ts": "2026-02-13T22:48:44.956946+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68877.52, "ts": "2026-02-13T22:48:50.271686+00:00"}
+{"type": "tick", "counter": 207, "symbol": "BTCUSDT", "mode": "paper", "price": 68877.52, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:50.272042+00:00"}
+{"type": "strategy_state", "ema_fast": 68864.53181932955, "ema_slow": 68864.65780340754, "signal": null, "ts": "2026-02-13T22:48:50.273960+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68885.99, "ts": "2026-02-13T22:48:55.587067+00:00"}
+{"type": "tick", "counter": 208, "symbol": "BTCUSDT", "mode": "paper", "price": 68885.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:48:55.587405+00:00"}
+{"type": "strategy_state", "ema_fast": 68867.83307789423, "ema_slow": 68866.23796611809, "signal": "long", "ts": "2026-02-13T22:48:55.589240+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68894.29, "ts": "2026-02-13T22:49:00.928553+00:00"}
+{"type": "tick", "counter": 209, "symbol": "BTCUSDT", "mode": "paper", "price": 68894.29, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:00.928991+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.9033736028, "ema_slow": 68868.31589455379, "signal": null, "ts": "2026-02-13T22:49:00.929088+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68862.0, "ts": "2026-02-13T22:49:06.252994+00:00"}
+{"type": "tick", "counter": 210, "symbol": "BTCUSDT", "mode": "paper", "price": 68862.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:06.253259+00:00"}
+{"type": "strategy_state", "ema_fast": 68870.37977766391, "ema_slow": 68867.84805051277, "signal": null, "ts": "2026-02-13T22:49:06.253322+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68871.99, "ts": "2026-02-13T22:49:11.579931+00:00"}
+{"type": "tick", "counter": 211, "symbol": "BTCUSDT", "mode": "paper", "price": 68871.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:11.580269+00:00"}
+{"type": "strategy_state", "ema_fast": 68870.62750417716, "ema_slow": 68868.15486158589, "signal": null, "ts": "2026-02-13T22:49:11.582163+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68879.01, "ts": "2026-02-13T22:49:16.904282+00:00"}
+{"type": "tick", "counter": 212, "symbol": "BTCUSDT", "mode": "paper", "price": 68879.01, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:16.904586+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.91711891914, "ema_slow": 68868.95894591286, "signal": null, "ts": "2026-02-13T22:49:16.905018+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68879.0, "ts": "2026-02-13T22:49:22.222011+00:00"}
+{"type": "tick", "counter": 213, "symbol": "BTCUSDT", "mode": "paper", "price": 68879.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:22.222334+00:00"}
+{"type": "strategy_state", "ema_fast": 68873.00679293158, "ema_slow": 68869.70272769709, "signal": null, "ts": "2026-02-13T22:49:22.224211+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68885.3, "ts": "2026-02-13T22:49:27.539291+00:00"}
+{"type": "tick", "counter": 214, "symbol": "BTCUSDT", "mode": "paper", "price": 68885.3, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:27.539680+00:00"}
+{"type": "strategy_state", "ema_fast": 68874.8980555575, "ema_slow": 68870.858081201, "signal": null, "ts": "2026-02-13T22:49:27.539757+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68885.29, "ts": "2026-02-13T22:49:32.862103+00:00"}
+{"type": "tick", "counter": 215, "symbol": "BTCUSDT", "mode": "paper", "price": 68885.29, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:32.862407+00:00"}
+{"type": "strategy_state", "ema_fast": 68876.49681624096, "ema_slow": 68871.92711222316, "signal": null, "ts": "2026-02-13T22:49:32.862464+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68880.44, "ts": "2026-02-13T22:49:38.179760+00:00"}
+{"type": "tick", "counter": 216, "symbol": "BTCUSDT", "mode": "paper", "price": 68880.44, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:38.180022+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.1034598962, "ema_slow": 68872.55769650292, "signal": null, "ts": "2026-02-13T22:49:38.180074+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68880.44, "ts": "2026-02-13T22:49:43.983087+00:00"}
+{"type": "tick", "counter": 217, "symbol": "BTCUSDT", "mode": "paper", "price": 68880.44, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:43.983402+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.61677375832, "ema_slow": 68873.14157083603, "signal": null, "ts": "2026-02-13T22:49:43.983462+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68880.43, "ts": "2026-02-13T22:49:49.293437+00:00"}
+{"type": "tick", "counter": 218, "symbol": "BTCUSDT", "mode": "paper", "price": 68880.43, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:49.293606+00:00"}
+{"type": "strategy_state", "ema_fast": 68878.0495777955, "ema_slow": 68873.6814544778, "signal": null, "ts": "2026-02-13T22:49:49.295515+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68880.44, "ts": "2026-02-13T22:49:54.611526+00:00"}
+{"type": "tick", "counter": 219, "symbol": "BTCUSDT", "mode": "paper", "price": 68880.44, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:54.611817+00:00"}
+{"type": "strategy_state", "ema_fast": 68878.41733505772, "ema_slow": 68874.18208747945, "signal": null, "ts": "2026-02-13T22:49:54.611864+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68900.0, "ts": "2026-02-13T22:49:59.923877+00:00"}
+{"type": "tick", "counter": 220, "symbol": "BTCUSDT", "mode": "paper", "price": 68900.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:49:59.924132+00:00"}
+{"type": "strategy_state", "ema_fast": 68881.73774504884, "ema_slow": 68876.09452544393, "signal": null, "ts": "2026-02-13T22:49:59.924173+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68902.48, "ts": "2026-02-13T22:50:05.270346+00:00"}
+{"type": "tick", "counter": 221, "symbol": "BTCUSDT", "mode": "paper", "price": 68902.48, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:05.270608+00:00"}
+{"type": "strategy_state", "ema_fast": 68884.92886119518, "ema_slow": 68878.04900504068, "signal": null, "ts": "2026-02-13T22:50:05.272485+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68882.0, "ts": "2026-02-13T22:50:10.597141+00:00"}
+{"type": "tick", "counter": 222, "symbol": "BTCUSDT", "mode": "paper", "price": 68882.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:10.597444+00:00"}
+{"type": "strategy_state", "ema_fast": 68884.47826716515, "ema_slow": 68878.34167133397, "signal": null, "ts": "2026-02-13T22:50:10.599260+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.74, "ts": "2026-02-13T22:50:15.914273+00:00"}
+{"type": "tick", "counter": 223, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.74, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:15.914583+00:00"}
+{"type": "strategy_state", "ema_fast": 68887.74930298589, "ema_slow": 68880.37117716108, "signal": null, "ts": "2026-02-13T22:50:15.916498+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68905.56, "ts": "2026-02-13T22:50:21.242726+00:00"}
+{"type": "tick", "counter": 224, "symbol": "BTCUSDT", "mode": "paper", "price": 68905.56, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:21.242931+00:00"}
+{"type": "strategy_state", "ema_fast": 68890.48941021883, "ema_slow": 68882.23701588988, "signal": null, "ts": "2026-02-13T22:50:21.243174+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68910.6, "ts": "2026-02-13T22:50:26.570284+00:00"}
+{"type": "tick", "counter": 225, "symbol": "BTCUSDT", "mode": "paper", "price": 68910.6, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:26.570679+00:00"}
+{"type": "strategy_state", "ema_fast": 68893.58334710824, "ema_slow": 68884.33797767582, "signal": null, "ts": "2026-02-13T22:50:26.572595+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68907.94, "ts": "2026-02-13T22:50:31.911706+00:00"}
+{"type": "tick", "counter": 226, "symbol": "BTCUSDT", "mode": "paper", "price": 68907.94, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:31.912126+00:00"}
+{"type": "strategy_state", "ema_fast": 68895.79206293775, "ema_slow": 68886.08627562576, "signal": null, "ts": "2026-02-13T22:50:31.914022+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.82, "ts": "2026-02-13T22:50:37.681197+00:00"}
+{"type": "tick", "counter": 227, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.82, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:37.681451+00:00"}
+{"type": "strategy_state", "ema_fast": 68901.33482248579, "ema_slow": 68889.47395891274, "signal": null, "ts": "2026-02-13T22:50:37.681489+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.83, "ts": "2026-02-13T22:50:43.019633+00:00"}
+{"type": "tick", "counter": 228, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.83, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:43.019950+00:00"}
+{"type": "strategy_state", "ema_fast": 68906.0263882572, "ema_slow": 68892.61144343772, "signal": null, "ts": "2026-02-13T22:50:43.019994+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.83, "ts": "2026-02-13T22:50:48.329671+00:00"}
+{"type": "tick", "counter": 229, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.83, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:48.329947+00:00"}
+{"type": "strategy_state", "ema_fast": 68909.99617467917, "ema_slow": 68895.51652170159, "signal": null, "ts": "2026-02-13T22:50:48.330002+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:50:53.641798+00:00"}
+{"type": "tick", "counter": 230, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:53.642137+00:00"}
+{"type": "strategy_state", "ema_fast": 68913.38137857468, "ema_slow": 68898.21900157555, "signal": null, "ts": "2026-02-13T22:50:53.642199+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:50:58.959747+00:00"}
+{"type": "tick", "counter": 231, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:50:58.959875+00:00"}
+{"type": "strategy_state", "ema_fast": 68916.24578187088, "ema_slow": 68900.72129775514, "signal": null, "ts": "2026-02-13T22:50:58.961727+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:51:04.299097+00:00"}
+{"type": "tick", "counter": 232, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:04.299264+00:00"}
+{"type": "strategy_state", "ema_fast": 68918.66796927535, "ema_slow": 68903.03749792142, "signal": null, "ts": "2026-02-13T22:51:04.301053+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:51:09.613887+00:00"}
+{"type": "tick", "counter": 233, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:09.614204+00:00"}
+{"type": "strategy_state", "ema_fast": 68920.71751246376, "ema_slow": 68905.18212770502, "signal": null, "ts": "2026-02-13T22:51:09.616071+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:51:14.946833+00:00"}
+{"type": "tick", "counter": 234, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:14.947029+00:00"}
+{"type": "strategy_state", "ema_fast": 68922.45174131548, "ema_slow": 68907.16789602317, "signal": null, "ts": "2026-02-13T22:51:14.947085+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:51:20.278923+00:00"}
+{"type": "tick", "counter": 235, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:20.279084+00:00"}
+{"type": "strategy_state", "ema_fast": 68923.92070419002, "ema_slow": 68909.00731113256, "signal": null, "ts": "2026-02-13T22:51:20.279153+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:51:25.589203+00:00"}
+{"type": "tick", "counter": 236, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:25.589332+00:00"}
+{"type": "strategy_state", "ema_fast": 68925.16367277618, "ema_slow": 68910.7104732709, "signal": null, "ts": "2026-02-13T22:51:25.589397+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:51:30.916675+00:00"}
+{"type": "tick", "counter": 237, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:30.916908+00:00"}
+{"type": "strategy_state", "ema_fast": 68926.21541542599, "ema_slow": 68912.28747525084, "signal": null, "ts": "2026-02-13T22:51:30.916954+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:51:36.231274+00:00"}
+{"type": "tick", "counter": 238, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:36.231554+00:00"}
+{"type": "strategy_state", "ema_fast": 68927.10381305276, "ema_slow": 68913.74692152855, "signal": null, "ts": "2026-02-13T22:51:36.233365+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:51:41.550985+00:00"}
+{"type": "tick", "counter": 239, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:41.551355+00:00"}
+{"type": "strategy_state", "ema_fast": 68927.85553412157, "ema_slow": 68915.09826067458, "signal": null, "ts": "2026-02-13T22:51:41.551429+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:51:46.873737+00:00"}
+{"type": "tick", "counter": 240, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:46.873994+00:00"}
+{"type": "strategy_state", "ema_fast": 68928.49314425672, "ema_slow": 68916.35024136535, "signal": null, "ts": "2026-02-13T22:51:46.875782+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:51:52.195325+00:00"}
+{"type": "tick", "counter": 241, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:52.195713+00:00"}
+{"type": "strategy_state", "ema_fast": 68929.03266052491, "ema_slow": 68917.50948274569, "signal": null, "ts": "2026-02-13T22:51:52.197572+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:51:57.541792+00:00"}
+{"type": "tick", "counter": 242, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:51:57.541938+00:00"}
+{"type": "strategy_state", "ema_fast": 68929.48917429031, "ema_slow": 68918.58285439416, "signal": null, "ts": "2026-02-13T22:51:57.543773+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:52:02.876260+00:00"}
+{"type": "tick", "counter": 243, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:52:02.876596+00:00"}
+{"type": "strategy_state", "ema_fast": 68929.87545516873, "ema_slow": 68919.57671703162, "signal": null, "ts": "2026-02-13T22:52:02.876664+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:52:08.189804+00:00"}
+{"type": "tick", "counter": 244, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:52:08.190082+00:00"}
+{"type": "strategy_state", "ema_fast": 68930.2023082197, "ema_slow": 68920.49696021447, "signal": null, "ts": "2026-02-13T22:52:08.191940+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:52:13.508630+00:00"}
+{"type": "tick", "counter": 245, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:52:13.508941+00:00"}
+{"type": "strategy_state", "ema_fast": 68930.4788761859, "ema_slow": 68921.34903723562, "signal": null, "ts": "2026-02-13T22:52:13.510730+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:52:18.824692+00:00"}
+{"type": "tick", "counter": 246, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:52:18.824877+00:00"}
+{"type": "strategy_state", "ema_fast": 68930.71289523422, "ema_slow": 68922.13799744038, "signal": null, "ts": "2026-02-13T22:52:18.824934+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:52:24.158778+00:00"}
+{"type": "tick", "counter": 247, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:52:24.159104+00:00"}
+{"type": "strategy_state", "ema_fast": 68930.9093728905, "ema_slow": 68922.86777540777, "signal": null, "ts": "2026-02-13T22:52:24.160979+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:52:29.478290+00:00"}
+{"type": "tick", "counter": 248, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": true, "equity": 99.91593570521678, "daily_pnl": -0.08406429478321797, "ts": "2026-02-13T22:52:29.478547+00:00"}
+{"type": "strategy_state", "ema_fast": 68931.07562321505, "ema_slow": 68923.54349574793, "signal": null, "ts": "2026-02-13T22:52:29.480533+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 68865.14, "exit_price": 68931.99, "size": 0.0014508927986673198, "stop_price": 68176.4886, "pnl": 0.09699218359091878, "equity_after": 100.0129278888077, "daily_pnl": 0.012927888807695354, "reason": "time_exit", "ts": "2026-02-13T22:52:29.480599+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68932.0, "ts": "2026-02-13T22:52:34.788986+00:00"}
+{"type": "tick", "counter": 249, "symbol": "BTCUSDT", "mode": "paper", "price": 68932.0, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:52:34.789225+00:00"}
+{"type": "strategy_state", "ema_fast": 68931.21783502812, "ema_slow": 68924.1699034703, "signal": null, "ts": "2026-02-13T22:52:34.789264+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:52:40.105353+00:00"}
+{"type": "tick", "counter": 250, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:52:40.105664+00:00"}
+{"type": "strategy_state", "ema_fast": 68931.33662963918, "ema_slow": 68924.74916987991, "signal": null, "ts": "2026-02-13T22:52:40.110690+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.99, "ts": "2026-02-13T22:52:45.430475+00:00"}
+{"type": "tick", "counter": 251, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:52:45.430708+00:00"}
+{"type": "strategy_state", "ema_fast": 68931.43714815623, "ema_slow": 68925.28552766658, "signal": null, "ts": "2026-02-13T22:52:45.430750+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68951.25, "ts": "2026-02-13T22:52:50.739909+00:00"}
+{"type": "tick", "counter": 252, "symbol": "BTCUSDT", "mode": "paper", "price": 68951.25, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:52:50.740219+00:00"}
+{"type": "strategy_state", "ema_fast": 68934.48527920911, "ema_slow": 68927.2088219135, "signal": null, "ts": "2026-02-13T22:52:50.740299+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.1, "ts": "2026-02-13T22:52:56.072996+00:00"}
+{"type": "tick", "counter": 253, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.1, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:52:56.073180+00:00"}
+{"type": "strategy_state", "ema_fast": 68940.73369779233, "ema_slow": 68930.75631658657, "signal": null, "ts": "2026-02-13T22:52:56.075048+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68980.92, "ts": "2026-02-13T22:53:01.387214+00:00"}
+{"type": "tick", "counter": 254, "symbol": "BTCUSDT", "mode": "paper", "price": 68980.92, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:01.387534+00:00"}
+{"type": "strategy_state", "ema_fast": 68946.91620582428, "ema_slow": 68934.47214498757, "signal": null, "ts": "2026-02-13T22:53:01.387734+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68976.08, "ts": "2026-02-13T22:53:06.711462+00:00"}
+{"type": "tick", "counter": 255, "symbol": "BTCUSDT", "mode": "paper", "price": 68976.08, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:06.711718+00:00"}
+{"type": "strategy_state", "ema_fast": 68951.40294338978, "ema_slow": 68937.55420832182, "signal": null, "ts": "2026-02-13T22:53:06.713523+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68986.47, "ts": "2026-02-13T22:53:12.079559+00:00"}
+{"type": "tick", "counter": 256, "symbol": "BTCUSDT", "mode": "paper", "price": 68986.47, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:12.079864+00:00"}
+{"type": "strategy_state", "ema_fast": 68956.79787517597, "ema_slow": 68941.17760029798, "signal": null, "ts": "2026-02-13T22:53:12.080102+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68986.83, "ts": "2026-02-13T22:53:17.394505+00:00"}
+{"type": "tick", "counter": 257, "symbol": "BTCUSDT", "mode": "paper", "price": 68986.83, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:17.394705+00:00"}
+{"type": "strategy_state", "ema_fast": 68961.41820207197, "ema_slow": 68944.55925953516, "signal": null, "ts": "2026-02-13T22:53:17.396519+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68988.0, "ts": "2026-02-13T22:53:22.718018+00:00"}
+{"type": "tick", "counter": 258, "symbol": "BTCUSDT", "mode": "paper", "price": 68988.0, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:22.718305+00:00"}
+{"type": "strategy_state", "ema_fast": 68965.50770944552, "ema_slow": 68947.77709216218, "signal": null, "ts": "2026-02-13T22:53:22.718366+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68991.29, "ts": "2026-02-13T22:53:28.041139+00:00"}
+{"type": "tick", "counter": 259, "symbol": "BTCUSDT", "mode": "paper", "price": 68991.29, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:28.041425+00:00"}
+{"type": "strategy_state", "ema_fast": 68969.47421568466, "ema_slow": 68951.00027052054, "signal": null, "ts": "2026-02-13T22:53:28.043275+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68991.29, "ts": "2026-02-13T22:53:33.353317+00:00"}
+{"type": "tick", "counter": 260, "symbol": "BTCUSDT", "mode": "paper", "price": 68991.29, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:33.353716+00:00"}
+{"type": "strategy_state", "ema_fast": 68972.83049019471, "ema_slow": 68953.98469492643, "signal": null, "ts": "2026-02-13T22:53:33.353758+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68980.02, "ts": "2026-02-13T22:53:38.655775+00:00"}
+{"type": "tick", "counter": 261, "symbol": "BTCUSDT", "mode": "paper", "price": 68980.02, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:38.656083+00:00"}
+{"type": "strategy_state", "ema_fast": 68973.93656862629, "ema_slow": 68955.913236043, "signal": null, "ts": "2026-02-13T22:53:38.656155+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68978.15, "ts": "2026-02-13T22:53:43.981071+00:00"}
+{"type": "tick", "counter": 262, "symbol": "BTCUSDT", "mode": "paper", "price": 68978.15, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:43.981198+00:00"}
+{"type": "strategy_state", "ema_fast": 68974.58478883763, "ema_slow": 68957.56040374351, "signal": null, "ts": "2026-02-13T22:53:43.981276+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68974.99, "ts": "2026-02-13T22:53:49.285684+00:00"}
+{"type": "tick", "counter": 263, "symbol": "BTCUSDT", "mode": "paper", "price": 68974.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:49.285968+00:00"}
+{"type": "strategy_state", "ema_fast": 68974.64712901646, "ema_slow": 68958.85148494769, "signal": null, "ts": "2026-02-13T22:53:49.286260+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68970.28, "ts": "2026-02-13T22:53:54.591661+00:00"}
+{"type": "tick", "counter": 264, "symbol": "BTCUSDT", "mode": "paper", "price": 68970.28, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:54.591837+00:00"}
+{"type": "strategy_state", "ema_fast": 68973.97526301393, "ema_slow": 68959.69804161823, "signal": null, "ts": "2026-02-13T22:53:54.593997+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68970.28, "ts": "2026-02-13T22:53:59.907675+00:00"}
+{"type": "tick", "counter": 265, "symbol": "BTCUSDT", "mode": "paper", "price": 68970.28, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:53:59.908032+00:00"}
+{"type": "strategy_state", "ema_fast": 68973.40676101178, "ema_slow": 68960.48189038725, "signal": null, "ts": "2026-02-13T22:53:59.909835+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68970.28, "ts": "2026-02-13T22:54:05.248993+00:00"}
+{"type": "tick", "counter": 266, "symbol": "BTCUSDT", "mode": "paper", "price": 68970.28, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:05.249254+00:00"}
+{"type": "strategy_state", "ema_fast": 68972.92572085612, "ema_slow": 68961.2076762845, "signal": null, "ts": "2026-02-13T22:54:05.249518+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68970.28, "ts": "2026-02-13T22:54:10.555551+00:00"}
+{"type": "tick", "counter": 267, "symbol": "BTCUSDT", "mode": "paper", "price": 68970.28, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:10.555931+00:00"}
+{"type": "strategy_state", "ema_fast": 68972.51868687825, "ema_slow": 68961.87970026342, "signal": null, "ts": "2026-02-13T22:54:10.557850+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68985.34, "ts": "2026-02-13T22:54:15.878439+00:00"}
+{"type": "tick", "counter": 268, "symbol": "BTCUSDT", "mode": "paper", "price": 68985.34, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:15.878668+00:00"}
+{"type": "strategy_state", "ema_fast": 68974.49119658928, "ema_slow": 68963.61750024391, "signal": null, "ts": "2026-02-13T22:54:15.878706+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68986.55, "ts": "2026-02-13T22:54:21.194556+00:00"}
+{"type": "tick", "counter": 269, "symbol": "BTCUSDT", "mode": "paper", "price": 68986.55, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:21.194795+00:00"}
+{"type": "strategy_state", "ema_fast": 68976.34639711402, "ema_slow": 68965.31620392954, "signal": null, "ts": "2026-02-13T22:54:21.196612+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68991.29, "ts": "2026-02-13T22:54:26.514092+00:00"}
+{"type": "tick", "counter": 270, "symbol": "BTCUSDT", "mode": "paper", "price": 68991.29, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:26.514581+00:00"}
+{"type": "strategy_state", "ema_fast": 68978.64541294263, "ema_slow": 68967.24018882365, "signal": null, "ts": "2026-02-13T22:54:26.514818+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68998.75, "ts": "2026-02-13T22:54:31.836927+00:00"}
+{"type": "tick", "counter": 271, "symbol": "BTCUSDT", "mode": "paper", "price": 68998.75, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:31.837194+00:00"}
+{"type": "strategy_state", "ema_fast": 68981.73842633607, "ema_slow": 68969.57424891078, "signal": null, "ts": "2026-02-13T22:54:31.837236+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.03, "ts": "2026-02-13T22:54:37.139656+00:00"}
+{"type": "tick", "counter": 272, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.03, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:37.139931+00:00"}
+{"type": "strategy_state", "ema_fast": 68980.70636074591, "ema_slow": 68969.97837862109, "signal": null, "ts": "2026-02-13T22:54:37.139990+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.01, "ts": "2026-02-13T22:54:42.458502+00:00"}
+{"type": "tick", "counter": 273, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.01, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:42.458823+00:00"}
+{"type": "strategy_state", "ema_fast": 68979.82999755423, "ema_slow": 68970.35109131582, "signal": null, "ts": "2026-02-13T22:54:42.461042+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.01, "ts": "2026-02-13T22:54:47.772102+00:00"}
+{"type": "tick", "counter": 274, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.01, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:47.772377+00:00"}
+{"type": "strategy_state", "ema_fast": 68979.08845946897, "ema_slow": 68970.6961956628, "signal": null, "ts": "2026-02-13T22:54:47.772505+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.0, "ts": "2026-02-13T22:54:53.087335+00:00"}
+{"type": "tick", "counter": 275, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.0, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:53.087687+00:00"}
+{"type": "strategy_state", "ema_fast": 68978.45946570451, "ema_slow": 68971.01499598406, "signal": null, "ts": "2026-02-13T22:54:53.087757+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.01, "ts": "2026-02-13T22:54:58.396887+00:00"}
+{"type": "tick", "counter": 276, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.01, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:54:58.397303+00:00"}
+{"type": "strategy_state", "ema_fast": 68977.92877867304, "ema_slow": 68971.31092220747, "signal": null, "ts": "2026-02-13T22:54:58.397371+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68975.01, "ts": "2026-02-13T22:55:03.716339+00:00"}
+{"type": "tick", "counter": 277, "symbol": "BTCUSDT", "mode": "paper", "price": 68975.01, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:03.716594+00:00"}
+{"type": "strategy_state", "ema_fast": 68977.47973580027, "ema_slow": 68971.58492796987, "signal": null, "ts": "2026-02-13T22:55:03.718731+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.91, "ts": "2026-02-13T22:55:09.510922+00:00"}
+{"type": "tick", "counter": 278, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.91, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:09.511250+00:00"}
+{"type": "strategy_state", "ema_fast": 68970.46900721561, "ema_slow": 68968.64604441656, "signal": null, "ts": "2026-02-13T22:55:09.511304+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68931.91, "ts": "2026-02-13T22:55:14.832361+00:00"}
+{"type": "tick", "counter": 279, "symbol": "BTCUSDT", "mode": "paper", "price": 68931.91, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:14.832718+00:00"}
+{"type": "strategy_state", "ema_fast": 68964.53685225936, "ema_slow": 68965.92485594125, "signal": "short", "ts": "2026-02-13T22:55:14.832786+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68952.16, "ts": "2026-02-13T22:55:20.138583+00:00"}
+{"type": "tick", "counter": 280, "symbol": "BTCUSDT", "mode": "paper", "price": 68952.16, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:20.138935+00:00"}
+{"type": "strategy_state", "ema_fast": 68962.63272114254, "ema_slow": 68964.90523698264, "signal": null, "ts": "2026-02-13T22:55:20.139000+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68961.99, "ts": "2026-02-13T22:55:25.451151+00:00"}
+{"type": "tick", "counter": 281, "symbol": "BTCUSDT", "mode": "paper", "price": 68961.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:25.451444+00:00"}
+{"type": "strategy_state", "ema_fast": 68962.53384096676, "ema_slow": 68964.68929350244, "signal": null, "ts": "2026-02-13T22:55:25.451509+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68969.99, "ts": "2026-02-13T22:55:30.770126+00:00"}
+{"type": "tick", "counter": 282, "symbol": "BTCUSDT", "mode": "paper", "price": 68969.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:30.770360+00:00"}
+{"type": "strategy_state", "ema_fast": 68963.68094235648, "ema_slow": 68965.08193842818, "signal": null, "ts": "2026-02-13T22:55:30.770400+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68942.62, "ts": "2026-02-13T22:55:36.085363+00:00"}
+{"type": "tick", "counter": 283, "symbol": "BTCUSDT", "mode": "paper", "price": 68942.62, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:36.085617+00:00"}
+{"type": "strategy_state", "ema_fast": 68960.44079737856, "ema_slow": 68963.4180911372, "signal": null, "ts": "2026-02-13T22:55:36.087454+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68942.61, "ts": "2026-02-13T22:55:41.404948+00:00"}
+{"type": "tick", "counter": 284, "symbol": "BTCUSDT", "mode": "paper", "price": 68942.61, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:41.405210+00:00"}
+{"type": "strategy_state", "ema_fast": 68957.69759778185, "ema_slow": 68961.87675105296, "signal": null, "ts": "2026-02-13T22:55:41.407052+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68954.15, "ts": "2026-02-13T22:55:46.737310+00:00"}
+{"type": "tick", "counter": 285, "symbol": "BTCUSDT", "mode": "paper", "price": 68954.15, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:46.737593+00:00"}
+{"type": "strategy_state", "ema_fast": 68957.15181350772, "ema_slow": 68961.30439912311, "signal": null, "ts": "2026-02-13T22:55:46.737651+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68938.61, "ts": "2026-02-13T22:55:52.056242+00:00"}
+{"type": "tick", "counter": 286, "symbol": "BTCUSDT", "mode": "paper", "price": 68938.61, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:52.056612+00:00"}
+{"type": "strategy_state", "ema_fast": 68954.29922681423, "ema_slow": 68959.6233325214, "signal": null, "ts": "2026-02-13T22:55:52.056676+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.92, "ts": "2026-02-13T22:55:57.368239+00:00"}
+{"type": "tick", "counter": 287, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.92, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:55:57.368627+00:00"}
+{"type": "strategy_state", "ema_fast": 68949.77934576588, "ema_slow": 68957.05271529758, "signal": null, "ts": "2026-02-13T22:55:57.370507+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.99, "ts": "2026-02-13T22:56:03.162986+00:00"}
+{"type": "tick", "counter": 288, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:03.163310+00:00"}
+{"type": "strategy_state", "ema_fast": 68945.96560026344, "ema_slow": 68954.67769934962, "signal": null, "ts": "2026-02-13T22:56:03.163401+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.99, "ts": "2026-02-13T22:56:08.488915+00:00"}
+{"type": "tick", "counter": 289, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:08.489205+00:00"}
+{"type": "strategy_state", "ema_fast": 68942.7385848383, "ema_slow": 68952.4786105089, "signal": null, "ts": "2026-02-13T22:56:08.489259+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.99, "ts": "2026-02-13T22:56:13.814396+00:00"}
+{"type": "tick", "counter": 290, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:13.814593+00:00"}
+{"type": "strategy_state", "ema_fast": 68940.00803332472, "ema_slow": 68950.44241713788, "signal": null, "ts": "2026-02-13T22:56:13.814650+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.97, "ts": "2026-02-13T22:56:19.144331+00:00"}
+{"type": "tick", "counter": 291, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.97, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:19.144719+00:00"}
+{"type": "strategy_state", "ema_fast": 68937.6944897363, "ema_slow": 68948.55557142396, "signal": null, "ts": "2026-02-13T22:56:19.146851+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.96, "ts": "2026-02-13T22:56:24.465691+00:00"}
+{"type": "tick", "counter": 292, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.96, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:24.465903+00:00"}
+{"type": "strategy_state", "ema_fast": 68935.73533746917, "ema_slow": 68946.80775131848, "signal": null, "ts": "2026-02-13T22:56:24.467731+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68924.97, "ts": "2026-02-13T22:56:29.788483+00:00"}
+{"type": "tick", "counter": 293, "symbol": "BTCUSDT", "mode": "paper", "price": 68924.97, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:29.788762+00:00"}
+{"type": "strategy_state", "ema_fast": 68934.07913170468, "ema_slow": 68945.19014010971, "signal": null, "ts": "2026-02-13T22:56:29.788800+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68929.47, "ts": "2026-02-13T22:56:35.112743+00:00"}
+{"type": "tick", "counter": 294, "symbol": "BTCUSDT", "mode": "paper", "price": 68929.47, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:35.113049+00:00"}
+{"type": "strategy_state", "ema_fast": 68933.37003451935, "ema_slow": 68944.02568528678, "signal": null, "ts": "2026-02-13T22:56:35.113102+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68938.6, "ts": "2026-02-13T22:56:40.440761+00:00"}
+{"type": "tick", "counter": 295, "symbol": "BTCUSDT", "mode": "paper", "price": 68938.6, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:40.441093+00:00"}
+{"type": "strategy_state", "ema_fast": 68934.1746445933, "ema_slow": 68943.62378267293, "signal": null, "ts": "2026-02-13T22:56:40.441166+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68899.99, "ts": "2026-02-13T22:56:45.752339+00:00"}
+{"type": "tick", "counter": 296, "symbol": "BTCUSDT", "mode": "paper", "price": 68899.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:45.752723+00:00"}
+{"type": "strategy_state", "ema_fast": 68928.91546850202, "ema_slow": 68940.39165062309, "signal": null, "ts": "2026-02-13T22:56:45.754521+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68900.0, "ts": "2026-02-13T22:56:51.069683+00:00"}
+{"type": "tick", "counter": 297, "symbol": "BTCUSDT", "mode": "paper", "price": 68900.0, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:51.069886+00:00"}
+{"type": "strategy_state", "ema_fast": 68924.46693488632, "ema_slow": 68937.39967650286, "signal": null, "ts": "2026-02-13T22:56:51.069957+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68890.27, "ts": "2026-02-13T22:56:56.378590+00:00"}
+{"type": "tick", "counter": 298, "symbol": "BTCUSDT", "mode": "paper", "price": 68890.27, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:56:56.378944+00:00"}
+{"type": "strategy_state", "ema_fast": 68919.20586798074, "ema_slow": 68933.9085893545, "signal": null, "ts": "2026-02-13T22:56:56.379006+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68884.01, "ts": "2026-02-13T22:57:02.147586+00:00"}
+{"type": "tick", "counter": 299, "symbol": "BTCUSDT", "mode": "paper", "price": 68884.01, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:02.147867+00:00"}
+{"type": "strategy_state", "ema_fast": 68913.79111906062, "ema_slow": 68930.21239755047, "signal": null, "ts": "2026-02-13T22:57:02.147914+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68895.99, "ts": "2026-02-13T22:57:07.486565+00:00"}
+{"type": "tick", "counter": 300, "symbol": "BTCUSDT", "mode": "paper", "price": 68895.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:07.486883+00:00"}
+{"type": "strategy_state", "ema_fast": 68911.05248535899, "ema_slow": 68927.67740513931, "signal": null, "ts": "2026-02-13T22:57:07.489022+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68900.82, "ts": "2026-02-13T22:57:12.799613+00:00"}
+{"type": "tick", "counter": 301, "symbol": "BTCUSDT", "mode": "paper", "price": 68900.82, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:12.799922+00:00"}
+{"type": "strategy_state", "ema_fast": 68909.47825684222, "ema_slow": 68925.68796772159, "signal": null, "ts": "2026-02-13T22:57:12.799984+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68906.43, "ts": "2026-02-13T22:57:18.110029+00:00"}
+{"type": "tick", "counter": 302, "symbol": "BTCUSDT", "mode": "paper", "price": 68906.43, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:18.110277+00:00"}
+{"type": "strategy_state", "ema_fast": 68909.00929425111, "ema_slow": 68924.26145159407, "signal": null, "ts": "2026-02-13T22:57:18.110316+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68879.88, "ts": "2026-02-13T22:57:23.415292+00:00"}
+{"type": "tick", "counter": 303, "symbol": "BTCUSDT", "mode": "paper", "price": 68879.88, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:23.415576+00:00"}
+{"type": "strategy_state", "ema_fast": 68904.52786436632, "ema_slow": 68920.97393666118, "signal": null, "ts": "2026-02-13T22:57:23.417506+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68879.87, "ts": "2026-02-13T22:57:28.756074+00:00"}
+{"type": "tick", "counter": 304, "symbol": "BTCUSDT", "mode": "paper", "price": 68879.87, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:28.756366+00:00"}
+{"type": "strategy_state", "ema_fast": 68900.7343467715, "ema_slow": 68917.9292006122, "signal": null, "ts": "2026-02-13T22:57:28.756500+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68879.88, "ts": "2026-02-13T22:57:34.064987+00:00"}
+{"type": "tick", "counter": 305, "symbol": "BTCUSDT", "mode": "paper", "price": 68879.88, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:34.065373+00:00"}
+{"type": "strategy_state", "ema_fast": 68897.52598572974, "ema_slow": 68915.1107413076, "signal": null, "ts": "2026-02-13T22:57:34.065420+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68879.88, "ts": "2026-02-13T22:57:39.371398+00:00"}
+{"type": "tick", "counter": 306, "symbol": "BTCUSDT", "mode": "paper", "price": 68879.88, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:39.371554+00:00"}
+{"type": "strategy_state", "ema_fast": 68894.81121869439, "ema_slow": 68912.5010567663, "signal": null, "ts": "2026-02-13T22:57:39.371771+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68850.0, "ts": "2026-02-13T22:57:44.691145+00:00"}
+{"type": "tick", "counter": 307, "symbol": "BTCUSDT", "mode": "paper", "price": 68850.0, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:44.691415+00:00"}
+{"type": "strategy_state", "ema_fast": 68887.9171850491, "ema_slow": 68907.87134885768, "signal": null, "ts": "2026-02-13T22:57:44.693287+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68850.01, "ts": "2026-02-13T22:57:49.996673+00:00"}
+{"type": "tick", "counter": 308, "symbol": "BTCUSDT", "mode": "paper", "price": 68850.01, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:49.997074+00:00"}
+{"type": "strategy_state", "ema_fast": 68882.08531042616, "ema_slow": 68903.58532301636, "signal": null, "ts": "2026-02-13T22:57:49.999058+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68850.1, "ts": "2026-02-13T22:57:55.313956+00:00"}
+{"type": "tick", "counter": 309, "symbol": "BTCUSDT", "mode": "paper", "price": 68850.1, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:57:55.314240+00:00"}
+{"type": "strategy_state", "ema_fast": 68877.16449343752, "ema_slow": 68899.62344723738, "signal": null, "ts": "2026-02-13T22:57:55.316071+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68850.1, "ts": "2026-02-13T22:58:00.633005+00:00"}
+{"type": "tick", "counter": 310, "symbol": "BTCUSDT", "mode": "paper", "price": 68850.1, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:00.633336+00:00"}
+{"type": "strategy_state", "ema_fast": 68873.00072521636, "ema_slow": 68895.95504373831, "signal": null, "ts": "2026-02-13T22:58:00.633413+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68844.44, "ts": "2026-02-13T22:58:05.966487+00:00"}
+{"type": "tick", "counter": 311, "symbol": "BTCUSDT", "mode": "paper", "price": 68844.44, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:05.966763+00:00"}
+{"type": "strategy_state", "ema_fast": 68868.60676749077, "ema_slow": 68892.13911457252, "signal": null, "ts": "2026-02-13T22:58:05.966818+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68855.23, "ts": "2026-02-13T22:58:11.291800+00:00"}
+{"type": "tick", "counter": 312, "symbol": "BTCUSDT", "mode": "paper", "price": 68855.23, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:11.292064+00:00"}
+{"type": "strategy_state", "ema_fast": 68866.54880326142, "ema_slow": 68889.40510608567, "signal": null, "ts": "2026-02-13T22:58:11.293884+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68855.23, "ts": "2026-02-13T22:58:16.608372+00:00"}
+{"type": "tick", "counter": 313, "symbol": "BTCUSDT", "mode": "paper", "price": 68855.23, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:16.608868+00:00"}
+{"type": "strategy_state", "ema_fast": 68864.80744891352, "ema_slow": 68886.87361674599, "signal": null, "ts": "2026-02-13T22:58:16.610791+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68855.23, "ts": "2026-02-13T22:58:21.920294+00:00"}
+{"type": "tick", "counter": 314, "symbol": "BTCUSDT", "mode": "paper", "price": 68855.23, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:21.920700+00:00"}
+{"type": "strategy_state", "ema_fast": 68863.33399523451, "ema_slow": 68884.52964513518, "signal": null, "ts": "2026-02-13T22:58:21.922513+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68868.67, "ts": "2026-02-13T22:58:27.230805+00:00"}
+{"type": "tick", "counter": 315, "symbol": "BTCUSDT", "mode": "paper", "price": 68868.67, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:27.231140+00:00"}
+{"type": "strategy_state", "ema_fast": 68864.15491904458, "ema_slow": 68883.35485660665, "signal": null, "ts": "2026-02-13T22:58:27.233032+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68871.99, "ts": "2026-02-13T22:58:32.564225+00:00"}
+{"type": "tick", "counter": 316, "symbol": "BTCUSDT", "mode": "paper", "price": 68871.99, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:32.564719+00:00"}
+{"type": "strategy_state", "ema_fast": 68865.36031611465, "ema_slow": 68882.51301537652, "signal": null, "ts": "2026-02-13T22:58:32.565084+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68903.87, "ts": "2026-02-13T22:58:37.880566+00:00"}
+{"type": "tick", "counter": 317, "symbol": "BTCUSDT", "mode": "paper", "price": 68903.87, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:37.880905+00:00"}
+{"type": "strategy_state", "ema_fast": 68871.28488286624, "ema_slow": 68884.09501423752, "signal": null, "ts": "2026-02-13T22:58:37.882745+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68922.74, "ts": "2026-02-13T22:58:43.196072+00:00"}
+{"type": "tick", "counter": 318, "symbol": "BTCUSDT", "mode": "paper", "price": 68922.74, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:43.196300+00:00"}
+{"type": "strategy_state", "ema_fast": 68879.20105473297, "ema_slow": 68886.95760577549, "signal": null, "ts": "2026-02-13T22:58:43.196345+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68909.37, "ts": "2026-02-13T22:58:48.512144+00:00"}
+{"type": "tick", "counter": 319, "symbol": "BTCUSDT", "mode": "paper", "price": 68909.37, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:48.512522+00:00"}
+{"type": "strategy_state", "ema_fast": 68883.84243092789, "ema_slow": 68888.61778312545, "signal": null, "ts": "2026-02-13T22:58:48.512580+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68937.23, "ts": "2026-02-13T22:58:53.827430+00:00"}
+{"type": "tick", "counter": 320, "symbol": "BTCUSDT", "mode": "paper", "price": 68937.23, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:53.827828+00:00"}
+{"type": "strategy_state", "ema_fast": 68892.05590309283, "ema_slow": 68892.21868807911, "signal": null, "ts": "2026-02-13T22:58:53.827900+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68950.28, "ts": "2026-02-13T22:58:59.161657+00:00"}
+{"type": "tick", "counter": 321, "symbol": "BTCUSDT", "mode": "paper", "price": 68950.28, "trades_today": 3, "has_position": false, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:58:59.162025+00:00"}
+{"type": "strategy_state", "ema_fast": 68901.01345646316, "ema_slow": 68896.51952599917, "signal": "long", "ts": "2026-02-13T22:58:59.163871+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 68950.28, "size": 0.0014505079296096796, "stop_price": 68260.7772, "equity_before": 100.0129278888077, "risk_pct": 0.01, "risk_amount": 1.000129278888077, "reason": "ema_cross_long", "ts": "2026-02-13T22:58:59.163957+00:00"}
+{"type": "marketdata_ok", "symbol": "BTCUSDT", "price": 68950.29, "ts": "2026-02-13T22:59:04.491291+00:00"}
+{"type": "tick", "counter": 322, "symbol": "BTCUSDT", "mode": "paper", "price": 68950.29, "trades_today": 4, "has_position": true, "equity": 100.0129278888077, "daily_pnl": 0.012927888807695354, "ts": "2026-02-13T22:59:04.491615+00:00"}
+{"type": "strategy_state", "ema_fast": 68908.59446316113, "ema_slow": 68900.50252407331, "signal": null, "ts": "2026-02-13T22:59:04.493437+00:00"}
