@@ -28,6 +28,6 @@ def new_state(initial_equity: float) -> EngineState:
         trades_today=0,
         day_utc=utc_day(),
         equity=initial_equity,
-        daily_pnl=0.0
+        daily_pnl=0.0,
         day_start_equity=initial_equity
     )

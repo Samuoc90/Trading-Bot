@@ -124,10 +124,10 @@ def main():
             # Schutz gegen Division by zero
             if stop_distance <= 0:
                 log_event({
-		    "type": "entry_skipped",
-		    "reason": "bad_stop_distance",
-		    "stop_distance": stop_distance
-		})
+            "type": "entry_skipped",
+            "reason": "bad_stop_distance",
+            "stop_distance": stop_distance
+        })
                 time.sleep(interval)
                 continue
 
@@ -186,26 +186,28 @@ def main():
                 time.sleep(interval)
                 continue
 
-
-        # Exit: time-based for now
+        # Exit: time-based
         if state.position is not None:
             hold_ticks += 1
             if hold_ticks >= max_hold_ticks:
                 pnl = (price - state.position.entry_price) * state.position.size
                 state.equity += pnl
-		state.daily_pnl += pnl
+                state.daily_pnl = state.equity - state.day_start_equity
 
-		log_event({
+                log_event({
                     "type": "position_closed",
                     "symbol": symbol,
                     "side": state.position.side,
                     "entry_price": state.position.entry_price,
                     "exit_price": price,
+                    "size": state.position.size,
+                    "stop_price": state.position.stop_price,
                     "pnl": pnl,
                     "equity_after": state.equity,
                     "daily_pnl": state.daily_pnl,
                     "reason": "time_exit"
-           	 })
+                })
+
                 state.position = None
                 hold_ticks = 0
 
