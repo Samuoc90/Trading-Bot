@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from engine.strategy_ema import EmaState, on_price
 from engine.state import new_state, utc_day, Position
 from engine.marketdata import get_binance_price
+from engine.marketdata import get_binance_price, get_binance_last_closed_candle
 
 CONFIG_PATH = "config/settings.json"
 
@@ -30,9 +31,13 @@ def main():
     strat_cfg = config.get("strategy", {})
     ema_fast = int(strat_cfg.get("ema_fast", 12))
     ema_slow = int(strat_cfg.get("ema_slow", 26))
-    max_hold_ticks = int(strat_cfg.get("max_hold_ticks", 60))
+    max_hold_candles = int(strat_cfg.get("max_hold_candles", 12))
+    hold_candles = 0
     strat_state = EmaState()
-    hold_ticks = 0
+
+    use_candles = bool(strat_cfg.get("use_candles", False))
+    candle_interval = str(strat_cfg.get("candle_interval", "1m"))
+    last_candle_close_time = None
 
 
     log_event({"type": "startup", "config": config})
@@ -68,23 +73,40 @@ def main():
             time.sleep(interval)
             continue
 
-
         try:
-            price = get_binance_price(symbol)
+            if use_candles:
+                candle = get_binance_last_closed_candle(symbol, candle_interval)
+
+                # nur weiterarbeiten, wenn neue Kerze abgeschlossen wurde
+                if candle["close_time"] == last_candle_close_time:
+                    time.sleep(interval)
+                    continue
+
+                last_candle_close_time = candle["close_time"]
+                price = candle["close"]  # wir arbeiten mit Close
+
+                log_event({
+                    "type": "candle_ok",
+                    "symbol": symbol,
+                    "interval": candle_interval,
+                    **candle
+                })
+            else:
+                price = get_binance_price(symbol)
+                log_event({
+                    "type": "marketdata_ok",
+                    "symbol": symbol,
+                    "price": price
+                })
         except Exception as e:
             log_event({
-                    "type": "marketdata_error",
-                    "symbol": symbol,
-                    "error": str(e)
+                "type": "marketdata_error",
+                "symbol": symbol,
+                "error": str(e)
             })
             time.sleep(interval)
             continue
 
-        log_event({
-        "type": "marketdata_ok",
-        "symbol": symbol,
-        "price": price
-        })
 
         log_event({
         "type": "tick",
@@ -92,6 +114,7 @@ def main():
         "symbol": symbol,
         "mode": config["mode"],
         "price": price,
+        "candle_interval": candle_interval if use_candles else None,
         "trades_today": state.trades_today,
         "has_position": state.position is not None,
         "equity": state.equity,
@@ -101,6 +124,14 @@ def main():
         if not config.get("trade_enabled", False):
             time.sleep(interval)
             continue
+
+        # Risk gate: max trades/day (block new entries, but still manage exits)
+        if state.trades_today >= int(config["max_trades_per_day"]):
+            # wir lassen Exits trotzdem laufen -> deshalb: NICHT hier continue, wenn Position offen
+            if state.position is None:
+                time.sleep(interval)
+                continue
+
 
         # Strategy update: get signal
         strat_state, signal = on_price(strat_state, price, ema_fast, ema_slow)
@@ -112,60 +143,70 @@ def main():
             "signal": signal
         })
 
-        # Entry
-        if state.position is None and signal == "long":
+        # Entry (long + short)
+        if state.position is None and signal in ("long", "short"):
             risk_pct = float(config.get("risk_per_trade_pct", 1.0)) / 100.0
             stop_pct = float(strat_cfg.get("stop_loss_pct", 1.0)) / 100.0
+
             stop_distance = price * stop_pct
             risk_amount = state.equity * risk_pct
 
-
-
-            # Schutz gegen Division by zero
             if stop_distance <= 0:
                 log_event({
-            "type": "entry_skipped",
-            "reason": "bad_stop_distance",
-            "stop_distance": stop_distance
-        })
+                    "type": "entry_skipped",
+                    "reason": "bad_stop_distance",
+                    "stop_distance": stop_distance
+                })
                 time.sleep(interval)
                 continue
 
             size = risk_amount / stop_distance
-            stop_price = price * (1.0 - stop_pct)
+
+            if signal == "long":
+                stop_price = price * (1.0 - stop_pct)
+            else:  # short
+                stop_price = price * (1.0 + stop_pct)
 
             state.position = Position(
                 symbol=symbol,
-                side="long",
+                side=signal,  # "long" oder "short"
                 entry_price=price,
                 size=size,
                 opened_at=datetime.now(timezone.utc).isoformat(),
                 stop_price=stop_price
             )
 
-
-
             state.trades_today += 1
-            hold_ticks = 0
+            hold_candles = 0
+
             log_event({
                 "type": "position_opened",
                 "symbol": symbol,
-                "side": "long",
+                "side": signal,
                 "entry_price": price,
                 "size": size,
                 "stop_price": stop_price,
                 "equity_before": state.equity,
                 "risk_pct": risk_pct,
                 "risk_amount": risk_amount,
-                "reason": "ema_cross_long"
+                "reason": f"ema_cross_{signal}"
             })
 
-        # Exit: Stop-Loss
+        # Exit: Stop-Loss (long + short)
         if state.position is not None:
-            if price <= state.position.stop_price:
-                pnl = (price - state.position.entry_price) * state.position.size
+            stop_hit = (
+                (state.position.side == "long" and price <= state.position.stop_price) or
+                (state.position.side == "short" and price >= state.position.stop_price)
+            )
+
+            if stop_hit:
+                if state.position.side == "long":
+                    pnl = (price - state.position.entry_price) * state.position.size
+                else:  # short
+                    pnl = (state.position.entry_price - price) * state.position.size
+
                 state.equity += pnl
-                state.daily_pnl += pnl
+                state.daily_pnl = state.equity - state.day_start_equity
 
                 log_event({
                     "type": "position_closed",
@@ -182,15 +223,18 @@ def main():
                 })
 
                 state.position = None
-                hold_ticks = 0
-                time.sleep(interval)
+                hold_candles = 0
                 continue
 
-        # Exit: time-based
+        # Exit: time-based (in candles)
         if state.position is not None:
-            hold_ticks += 1
-            if hold_ticks >= max_hold_ticks:
-                pnl = (price - state.position.entry_price) * state.position.size
+            hold_candles += 1
+            if hold_candles >= max_hold_candles:
+                if state.position.side == "long":
+                    pnl = (price - state.position.entry_price) * state.position.size
+                else:  # short
+                    pnl = (state.position.entry_price - price) * state.position.size
+
                 state.equity += pnl
                 state.daily_pnl = state.equity - state.day_start_equity
 
@@ -209,14 +253,11 @@ def main():
                 })
 
                 state.position = None
-                hold_ticks = 0
+                hold_candles = 0
 
 
-        # Risk gate: max trades/day
-        if state.trades_today >= int(config["max_trades_per_day"]):
-            time.sleep(interval)
-            continue
+
+    time.sleep(interval)
 
 if __name__ == "__main__":
     main()
-
