@@ -7,16 +7,18 @@
   "initial_equity": 100.0,
   "risk_per_trade_pct": 1.0,
   "max_daily_loss_pct": 5.0,
-  "max_trades_per_day": 3,
+  "max_trades_per_day": 20,
 
   "strategy": {
-    "name": "ema_cross",
-    "ema_fast": 12,
-    "ema_slow": 26,
-    "max_hold_candles": 2,
-    "stop_loss_pct": 0.2,
-    "use_candles": true,
-    "candle_interval": "1m"
+   "name": "trend_pullback",
+   "ema_trend": 200,
+   "ema_pullback_fast": 20,
+   "ema_pullback_slow": 50,
+   "pullback_band_pct": 0.0015,
+   "swing_lookback": 5,
+   "rr_takeprofit": 2.0,
+   "use_candles": true,
+   "candle_interval": "1m"
   }
 }
 

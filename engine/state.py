@@ -9,6 +9,7 @@ class Position:
     size: float
     opened_at: str
     stop_price: float
+    take_profit_price: float | None
 
 @dataclass
 class EngineState:
