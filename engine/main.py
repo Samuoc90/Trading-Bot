@@ -20,8 +20,24 @@ def log_event(event: dict) -> None:
     with open("logs/engine.log", "a", encoding="utf-8") as f:
         f.write(json.dumps(event, ensure_ascii=False) + "\n")
 
+def apply_costs(pnl: float, notional: float, fee_bps: float, slippage_bps: float) -> tuple[float, float]:
+    """
+    Costs are applied on notional (entry+exit) approximation.
+    notional should be roughly: abs(price) * size
+    Returns: (net_pnl, total_cost)
+    """
+    rate = (fee_bps + slippage_bps) / 10000.0
+    # round-trip approximation: entry + exit ~ 2 * notional
+    total_cost = 2.0 * notional * rate
+    net_pnl = pnl - total_cost
+    return net_pnl, total_cost
+
 def main():
     config = load_config()
+    costs_cfg = config.get("costs", {})
+    fee_bps = float(costs_cfg.get("fee_bps", 0.0))
+    slippage_bps = float(costs_cfg.get("slippage_bps", 0.0))
+
     symbol = config["symbols"][0]
     interval = int(config["interval_sec"])
 
@@ -263,7 +279,11 @@ def main():
                 else:
                     pnl = (state.position.entry_price - price) * state.position.size
 
-                state.equity += pnl
+                pnl_gross = pnl
+                notional = abs(price) * state.position.size
+                pnl_net, cost_total = apply_costs(pnl_gross, notional, fee_bps, slippage_bps)
+
+                state.equity += pnl_net
                 state.daily_pnl = state.equity - state.day_start_equity
 
                 log_event({
@@ -275,7 +295,11 @@ def main():
                     "size": state.position.size,
                     "stop_price": state.position.stop_price,
                     "take_profit_price": state.position.take_profit_price,
-                    "pnl": pnl,
+                    "pnl_gross": pnl_gross,
+                    "cost_total": cost_total,
+                    "pnl_net": pnl_net,
+                    "fee_bps": fee_bps,
+                    "slippage_bps": slippage_bps,
                     "equity_after": state.equity,
                     "daily_pnl": state.daily_pnl,
                     "reason": "take_profit" if tp_hit else "stop_loss"

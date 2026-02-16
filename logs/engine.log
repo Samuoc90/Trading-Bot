@@ -1626,3 +1626,41 @@
 {"type": "candle_ok", "symbol": "BTCUSDT", "interval": "1m", "open_time": 1771190220000, "open": 68686.51, "high": 68726.77, "low": 68686.51, "close": 68721.78, "volume": 3.9537, "close_time": 1771190279999, "ts": "2026-02-15T21:18:03.098382+00:00"}
 {"type": "tick", "counter": 248, "symbol": "BTCUSDT", "mode": "paper", "price": 68721.78, "candle_interval": "1m", "trades_today": 4, "has_position": true, "equity": 97.83757177962505, "daily_pnl": -2.1624282203749488, "ts": "2026-02-15T21:18:03.098833+00:00"}
 {"type": "strategy_state", "strategy": "trend_pullback", "ema_fast": 68648.502940001, "ema_slow": 68564.35972693017, "ema_trend": 68484.45566419302, "signal": "long", "swing_low": 68661.46, "swing_high": 68770.29, "touch_fast": 1.0, "touch_slow": 0.0, "ts": "2026-02-15T21:18:03.098944+00:00"}
+{"type": "startup", "config": {"mode": "paper", "symbols": ["BTCUSDT"], "interval_sec": 10, "trade_enabled": true, "initial_equity": 100.0, "risk_per_trade_pct": 1.0, "max_daily_loss_pct": 5.0, "max_trades_per_day": 20, "costs": {"fee_bps": 8.0, "slippage_bps": 2.0}, "strategy": {"name": "trend_pullback", "ema_trend": 200, "ema_pullback_fast": 20, "ema_pullback_slow": 50, "pullback_band_pct": 0.0015, "swing_lookback": 5, "rr_takeprofit": 2.0, "use_candles": true, "candle_interval": "1m"}}, "ts": "2026-02-16T20:48:23.755276+00:00"}
+{"type": "candle_ok", "symbol": "BTCUSDT", "interval": "1m", "open_time": 1771274820000, "open": 68210.24, "high": 68220.6, "low": 68210.23, "close": 68210.95, "volume": 4.23632, "close_time": 1771274879999, "ts": "2026-02-16T20:48:24.118394+00:00"}
+{"type": "tick", "counter": 1, "symbol": "BTCUSDT", "mode": "paper", "price": 68210.95, "candle_interval": "1m", "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-16T20:48:24.118643+00:00"}
+{"type": "strategy_state", "strategy": "trend_pullback", "ema_fast": 68210.95, "ema_slow": 68210.95, "ema_trend": 68210.95, "signal": null, "swing_low": 68210.23, "swing_high": 68220.6, "touch_fast": 1.0, "touch_slow": 1.0, "ts": "2026-02-16T20:48:24.118710+00:00"}
+{"type": "candle_ok", "symbol": "BTCUSDT", "interval": "1m", "open_time": 1771274880000, "open": 68210.96, "high": 68215.17, "low": 68210.95, "close": 68211.59, "volume": 1.3061, "close_time": 1771274939999, "ts": "2026-02-16T20:49:03.609215+00:00"}
+{"type": "tick", "counter": 6, "symbol": "BTCUSDT", "mode": "paper", "price": 68211.59, "candle_interval": "1m", "trades_today": 0, "has_position": false, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-16T20:49:03.609646+00:00"}
+{"type": "strategy_state", "strategy": "trend_pullback", "ema_fast": 68211.01095238095, "ema_slow": 68210.97509803921, "ema_trend": 68210.9563681592, "signal": "long", "swing_low": 68210.23, "swing_high": 68220.6, "touch_fast": 1.0, "touch_slow": 1.0, "ts": "2026-02-16T20:49:03.609778+00:00"}
+{"type": "position_opened", "symbol": "BTCUSDT", "side": "long", "entry_price": 68211.59, "size": 0.7352941176467441, "stop_price": 68210.23, "take_profit_price": 68214.31, "equity_before": 100.0, "risk_pct": 0.01, "risk_amount": 1.0, "reason": "trend_pullback_long", "ts": "2026-02-16T20:49:03.609916+00:00"}
+{"type": "candle_ok", "symbol": "BTCUSDT", "interval": "1m", "open_time": 1771274940000, "open": 68211.59, "high": 68248.0, "low": 68211.59, "close": 68247.99, "volume": 3.11261, "close_time": 1771274999999, "ts": "2026-02-16T20:50:09.139371+00:00"}
+{"type": "tick", "counter": 14, "symbol": "BTCUSDT", "mode": "paper", "price": 68247.99, "candle_interval": "1m", "trades_today": 1, "has_position": true, "equity": 100.0, "daily_pnl": 0.0, "ts": "2026-02-16T20:50:09.139869+00:00"}
+{"type": "strategy_state", "strategy": "trend_pullback", "ema_fast": 68214.53276643991, "ema_slow": 68212.42666282199, "ema_trend": 68211.32486200836, "signal": "long", "swing_low": 68210.23, "swing_high": 68248.0, "touch_fast": 1.0, "touch_slow": 1.0, "ts": "2026-02-16T20:50:09.139958+00:00"}
+{"type": "position_closed", "symbol": "BTCUSDT", "side": "long", "entry_price": 68211.59, "exit_price": 68247.99, "size": 0.7352941176467441, "stop_price": 68210.23, "take_profit_price": 68214.31, "pnl_gross": 26.764705882347908, "cost_total": 100.36469117642764, "pnl_net": -73.59998529407973, "fee_bps": 8.0, "slippage_bps": 2.0, "equity_after": 26.40001470592027, "daily_pnl": -73.59998529407973, "reason": "take_profit", "ts": "2026-02-16T20:50:09.140036+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:50:09.140133+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:50:19.145938+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:50:29.184956+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:50:36.905105+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:50:46.927278+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:50:56.982669+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:51:04.497302+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:51:14.558475+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:51:24.570394+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:51:34.621919+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:51:42.148369+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:51:52.184681+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:02.185529+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:09.679143+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:19.702259+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:29.973751+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:37.509564+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:47.534263+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:52:57.578103+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:53:05.100298+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:53:15.118941+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:53:25.142650+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:53:35.153042+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:53:42.678384+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:53:52.824154+00:00"}
+{"type": "daily_loss_limit_hit", "day_start_equity": 100.0, "daily_pnl": -73.59998529407973, "limit": -5.0, "ts": "2026-02-16T20:54:03.124039+00:00"}

@@ -9,6 +9,12 @@
   "max_daily_loss_pct": 5.0,
   "max_trades_per_day": 20,
 
+  "costs": {
+    "fee_bps": 8.0,
+    "slippage_bps": 2.0
+  },
+
+
   "strategy": {
    "name": "trend_pullback",
    "ema_trend": 200,
