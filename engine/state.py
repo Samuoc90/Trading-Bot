@@ -4,12 +4,14 @@ from datetime import datetime, timezone
 @dataclass
 class Position:
     symbol: str
-    side: str            # "long" / "short"
+    side: str                  # "long" / "short"
     entry_price: float
-    size: float
+    notional_usdt: float       # Positionsgröße in USDT (NICHT BTC!)
     opened_at: str
     stop_price: float
-    take_profit_price: float | None
+    take_profit_price: float
+    entry_fee: float           # gezahlte Entry-Fee
+    entry_slippage: float      # Preisabweichung durch Slippage
 
 @dataclass
 class EngineState:

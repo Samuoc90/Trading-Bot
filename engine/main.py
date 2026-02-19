@@ -32,6 +32,66 @@ def apply_costs(pnl: float, notional: float, fee_bps: float, slippage_bps: float
     net_pnl = pnl - total_cost
     return net_pnl, total_cost
 
+def close_position(state, pos, exit_price_signal: float, reason: str, fee_rate: float, slip_rate: float, log_event) -> None:
+    """
+    Exit-Accounting:
+    - Entry-Fee wurde beim Open bereits von equity abgezogen.
+    - Beim Close ziehen wir Exit-Fee ab und rechnen PnL mit Fill-Preisen.
+    """
+    # Exit fill with slippage (gegen dich)
+    if pos.side == "long":
+        exit_fill = exit_price_signal * (1.0 - slip_rate)
+        exit_slippage = exit_price_signal - exit_fill
+        qty_btc = pos.notional_usdt / pos.entry_price  # entry_price ist bereits entry_fill
+        pnl_gross = (exit_fill - pos.entry_price) * qty_btc
+    else:  # short
+        exit_fill = exit_price_signal * (1.0 + slip_rate)
+        exit_slippage = exit_fill - exit_price_signal
+        qty_btc = pos.notional_usdt / pos.entry_price
+        pnl_gross = (pos.entry_price - exit_fill) * qty_btc
+
+    # Exit fee
+    exit_fee = pos.notional_usdt * fee_rate
+
+    # Net PnL: entry fee already paid at open
+    pnl_net = pnl_gross - exit_fee
+
+    # Apply
+    equity_before = state.equity
+    state.equity += pnl_net
+    state.daily_pnl = state.equity - state.day_start_equity
+
+    log_event({
+        "type": "position_closed",
+        "symbol": pos.symbol,
+        "side": pos.side,
+        "reason": reason,
+
+        "signal_exit_price": exit_price_signal,
+        "exit_price": exit_fill,
+        "exit_slippage": exit_slippage,
+
+        "entry_price": pos.entry_price,
+        "entry_fee": getattr(pos, "entry_fee", None),
+        "entry_slippage": getattr(pos, "entry_slippage", None),
+
+        "notional_usdt": pos.notional_usdt,
+        "qty_btc": qty_btc,
+
+        "stop_price": pos.stop_price,
+        "take_profit_price": pos.take_profit_price,
+
+        "pnl_gross": pnl_gross,
+        "exit_fee": exit_fee,
+        "pnl_net": pnl_net,
+
+        "equity_before": equity_before,
+        "equity_after": state.equity,
+        "daily_pnl": state.daily_pnl
+    })
+
+    state.position = None
+
 def main():
     config = load_config()
     costs_cfg = config.get("costs", {})
@@ -58,6 +118,13 @@ def main():
     ema_fast = int(strat_cfg.get("ema_fast", 12))
     ema_slow = int(strat_cfg.get("ema_slow", 26))
     max_hold_candles = int(strat_cfg.get("max_hold_candles", 12))
+
+    # Costs config
+    cost_cfg = config.get("costs", {})
+    fee_rate = float(cost_cfg.get("fee_bps", 8.0)) / 10_000.0
+    slip_rate = float(cost_cfg.get("slippage_bps", 2.0)) / 10_000.0
+
+
     hold_candles = 0
     trend_state = TrendPullbackState()
 
@@ -200,8 +267,6 @@ def main():
 
         # Entry (long + short)
         if state.position is None and signal in ("long", "short"):
-            risk_pct = float(config.get("risk_per_trade_pct", 1.0)) / 100.0
-            risk_amount = state.equity * risk_pct
 
             # Stop bestimmen (strategieabhängig)
             if strategy_name == "trend_pullback":
@@ -213,17 +278,34 @@ def main():
                 stop_pct = float(strat_cfg.get("stop_loss_pct", 1.0)) / 100.0
                 stop_price = price * (1.0 - stop_pct) if signal == "long" else price * (1.0 + stop_pct)
 
+            risk_cfg = config.get("risk", {})
+            if "risk" not in config:
+                log_event({"type": "config_warning", "message": "Missing 'risk' block in settings.json. Using defaults."})
+            risk_pct = float(risk_cfg.get("risk_per_trade_pct", 1.0)) / 100.0
+            max_leverage = float(risk_cfg.get("max_leverage", 3.0))
+
+            risk_amount = state.equity * risk_pct
+
             stop_distance = abs(price - stop_price)
+
             if stop_distance <= 0:
-                log_event({
-                    "type": "entry_skipped",
-                    "reason": "bad_stop_distance",
-                    "stop_distance": stop_distance
-                })
+                log_event({"type": "entry_skipped", "reason": "bad_stop_distance"})
                 time.sleep(interval)
                 continue
 
-            size = risk_amount / stop_distance
+            # 👉 Notional berechnen (saubere Formel)
+            notional_usdt = risk_amount * price / stop_distance
+
+            # 👉 Leverage-Constraint (echte Margin-Logik)
+            max_notional = state.equity * max_leverage
+            notional_usdt = min(notional_usdt, max_notional)
+
+            # optional: falls notional extrem klein/0 wird
+            if notional_usdt <= 0:
+                log_event({"type": "entry_skipped", "reason": "notional_le_0", "notional_usdt": notional_usdt})
+                time.sleep(interval)
+                continue
+
 
             # Take Profit (RR)
             rr_takeprofit = float(strat_cfg.get("rr_takeprofit", 2.0))
@@ -232,15 +314,35 @@ def main():
             else:  # short
                 take_profit_price = price - rr_takeprofit * (stop_price - price)
 
+            equity_before = state.equity
+
+            # --- Entry costs (slippage + fee) ---
+            # entry fill with slippage
+            if signal == "long":
+                entry_fill = price * (1.0 + slip_rate)
+                entry_slippage = entry_fill - price
+            else:  # short
+                entry_fill = price * (1.0 - slip_rate)
+                entry_slippage = price - entry_fill
+
+            # pay entry fee immediately
+            entry_fee = notional_usdt * fee_rate
+            state.equity -= entry_fee
+            state.daily_pnl = state.equity - state.day_start_equity
+
+
             state.position = Position(
                 symbol=symbol,
                 side=signal,
-                entry_price=price,
-                size=size,
+                entry_price=entry_fill,
+                notional_usdt=notional_usdt,
                 opened_at=datetime.now(timezone.utc).isoformat(),
                 stop_price=stop_price,
-                take_profit_price=take_profit_price
+                take_profit_price=take_profit_price,
+                entry_fee=entry_fee,
+                entry_slippage=entry_slippage
             )
+
 
             state.trades_today += 1
             hold_candles = 0
@@ -249,95 +351,57 @@ def main():
                 "type": "position_opened",
                 "symbol": symbol,
                 "side": signal,
-                "entry_price": price,
-                "size": size,
+                "signal_price": price,
+                "entry_price": entry_fill,
+                "notional_usdt": notional_usdt,
+                "qty_btc": notional_usdt / entry_fill,
                 "stop_price": stop_price,
                 "take_profit_price": take_profit_price,
-                "equity_before": state.equity,
-                "risk_pct": risk_pct,
-                "risk_amount": risk_amount,
-                "reason": f"{strategy_name}_{signal}"
+                "entry_fee": entry_fee,
+                "entry_slippage": entry_slippage,
+                "equity_before": equity_before,          # falls du das vorher speicherst
+                "equity_after": state.equity,
+                "reason": "trend_pullback_" + signal
             })
 
-        # Exit: Take Profit / Stop-Loss (long + short)
+        # Exit management (TP / SL / Time)
         if state.position is not None:
-            # TP check
-            tp_hit = (
-                (state.position.side == "long" and price >= state.position.take_profit_price) or
-                (state.position.side == "short" and price <= state.position.take_profit_price)
-            )
+            pos = state.position
 
-            # SL check
-            sl_hit = (
-                (state.position.side == "long" and price <= state.position.stop_price) or
-                (state.position.side == "short" and price >= state.position.stop_price)
-            )
+        # Fees/Slippage aus config
+        costs_cfg = config.get("costs", {})
+        fee_rate = float(costs_cfg.get("fee_bps", 8.0)) / 10000.0
+        slip_rate = float(costs_cfg.get("slippage_bps", 2.0)) / 10000.0
 
-            if tp_hit or sl_hit:
-                if state.position.side == "long":
-                    pnl = (price - state.position.entry_price) * state.position.size
-                else:
-                    pnl = (state.position.entry_price - price) * state.position.size
+        # TP/SL hit?
+        tp_hit = (
+            (pos.side == "long" and price >= pos.take_profit_price) or
+            (pos.side == "short" and price <= pos.take_profit_price)
+        )
+        sl_hit = (
+            (pos.side == "long" and price <= pos.stop_price) or
+            (pos.side == "short" and price >= pos.stop_price)
+        )
 
-                pnl_gross = pnl
-                notional = abs(price) * state.position.size
-                pnl_net, cost_total = apply_costs(pnl_gross, notional, fee_bps, slippage_bps)
+        if sl_hit:
+            close_position(state, pos, pos.stop_price, "stop_loss", fee_rate, slip_rate, log_event)
+            hold_candles = 0
+            time.sleep(interval)
+            continue
 
-                state.equity += pnl_net
-                state.daily_pnl = state.equity - state.day_start_equity
+        if tp_hit:
+            close_position(state, pos, pos.take_profit_price, "take_profit", fee_rate, slip_rate, log_event)
+            hold_candles = 0
+            time.sleep(interval)
+            continue
 
-                log_event({
-                    "type": "position_closed",
-                    "symbol": symbol,
-                    "side": state.position.side,
-                    "entry_price": state.position.entry_price,
-                    "exit_price": price,
-                    "size": state.position.size,
-                    "stop_price": state.position.stop_price,
-                    "take_profit_price": state.position.take_profit_price,
-                    "pnl_gross": pnl_gross,
-                    "cost_total": cost_total,
-                    "pnl_net": pnl_net,
-                    "fee_bps": fee_bps,
-                    "slippage_bps": slippage_bps,
-                    "equity_after": state.equity,
-                    "daily_pnl": state.daily_pnl,
-                    "reason": "take_profit" if tp_hit else "stop_loss"
-                })
-
-                state.position = None
-                hold_candles = 0
-                continue
-
-        # Exit: time-based (in candles)
-        if state.position is not None:
-            hold_candles += 1
-            if hold_candles >= max_hold_candles:
-                if state.position.side == "long":
-                    pnl = (price - state.position.entry_price) * state.position.size
-                else:
-                    pnl = (state.position.entry_price - price) * state.position.size
-
-                state.equity += pnl
-                state.daily_pnl = state.equity - state.day_start_equity
-
-                log_event({
-                    "type": "position_closed",
-                    "symbol": symbol,
-                    "side": state.position.side,
-                    "entry_price": state.position.entry_price,
-                    "exit_price": price,
-                    "size": state.position.size,
-                    "stop_price": state.position.stop_price,
-                    "take_profit_price": state.position.take_profit_price,
-                    "pnl": pnl,
-                    "equity_after": state.equity,
-                    "daily_pnl": state.daily_pnl,
-                    "reason": "time_exit"
-                })
-
-                state.position = None
-                hold_candles = 0
+        # Time exit (count only while position is open)
+        hold_candles += 1
+        if hold_candles >= max_hold_candles:
+            close_position(state, pos, price, "time_exit", fee_rate, slip_rate, log_event)
+            hold_candles = 0
+            time.sleep(interval)
+            continue
 
 
     time.sleep(interval)
